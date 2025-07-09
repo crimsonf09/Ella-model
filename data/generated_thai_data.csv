@@ -1,0 +1,951 @@
+Type,Context Level,Question
+Paper Work,Without Context,ช่วยเขียน campaign proposal สำหรับสินค้าตัวใหม่ในตลาด FMCG
+Paper Work,Without Context,Generate internal email แจ้งเปลี่ยน target group ให้ทีม marketing
+Paper Work,Without Context,เขียน marketing report สรุปยอดขาย Q2 ภาษาไทย
+Paper Work,Without Context,ร่าง press release สำหรับเปิดตัว real estate project ใหม่
+Paper Work,Without Context,Compose a formal brief สำหรับ creative team เกี่ยวกับโปรโมชั่น summer
+Paper Work,Without Context,ช่วยร่าง email แจ้งเตือนลูกค้าเกี่ยวกับ policy ใหม่ของ loyalty program
+Paper Work,Without Context,Generate product launch plan สำหรับสินค้าเทคโนโลยี
+Paper Work,Without Context,ขอ template สำหรับ internal memo แจ้งเปลี่ยน KPI
+Paper Work,Without Context,เขียน PR invitation สำหรับ event เปิดตัวร้านอาหารใหม่
+Paper Work,Without Context,Draft a proposal สำหรับ partnership กับ influencer ชื่อดัง
+Paper Work,Without Context,ช่วยเขียน meeting agenda สำหรับ marketing meeting สัปดาห์หน้า
+Paper Work,Without Context,Compose job description สำหรับตำแหน่ง marketing analyst
+Paper Work,Without Context,ขอ business letter ภาษาไทยสำหรับติดต่อ supplier
+Paper Work,Without Context,เขียน campaign brief สำหรับ seasonal promotion
+Paper Work,Without Context,Generate monthly sales summary สำหรับสินค้ากลุ่ม fashion
+Paper Work,Without Context,ช่วยร่าง internal announcement เรื่อง team restructure
+Paper Work,Without Context,Create a project timeline สำหรับ digital campaign
+Paper Work,Without Context,ช่วยเขียน thank you letter สำหรับลูกค้าหลังจบ event
+Paper Work,Without Context,ขอ template สำหรับขอ feedback จากลูกค้าหลังใช้งาน product
+Paper Work,Without Context,Compose a formal invitation สำหรับงานสัมมนาการตลาด
+Paper Work,Without Context,ช่วยเขียน proposal สำหรับจัด training ให้ทีม marketing
+Paper Work,Without Context,ร่าง email แจ้งเตือนเรื่อง deadline ของ campaign
+Paper Work,Without Context,Generate a content calendar สำหรับ Q1
+Paper Work,Without Context,ขอรายงานสรุปยอดขายรายเดือนสำหรับสินค้า FMCG
+Paper Work,Without Context,Compose a follow-up email สำหรับ lead ที่สนใจสินค้า
+Paper Work,Without Context,ช่วยร่าง press release ประกาศความร่วมมือกับ partner ใหม่
+Paper Work,Without Context,Generate event recap สำหรับงานเปิดตัวสินค้า
+Paper Work,Without Context,เขียน internal report สรุป performance ของ Facebook campaign
+Paper Work,Without Context,ขอ template สำหรับขอ testimonial จากลูกค้า B2B
+Paper Work,Without Context,Compose a formal letter ขอ sponsorship สำหรับ event
+Paper Work,Light Context,เราต้องการ launch สินค้าแฟชั่นใหม่ผ่าน social media ช่วยเขียน content plan ให้หน่อย
+Paper Work,Light Context,ขอ marketing proposal สำหรับงาน event เปิดตัวคอนโดในกรุงเทพที่เน้น target group วัยทำงาน
+Paper Work,Light Context,บริษัท tech startup ของเราต้องส่ง internal memo แจ้งเรื่อง KPI ใหม่ ช่วยร่างให้หน่อย
+Paper Work,Light Context,ขอ email template สำหรับแจ้งลูกค้าเกี่ยวกับ loyalty program ที่จะเริ่มเดือนหน้า
+Paper Work,Light Context,เราจะมี PR event สำหรับสินค้ากลุ่ม beauty ช่วยเขียน invitation letter แบบเป็นทางการ
+Paper Work,Light Context,ขอ campaign brief สำหรับโปรโมชั่น summer sale ที่จะใช้ใน LINE OA
+Paper Work,Light Context,บริษัท real estate ต้องการ business proposal สำหรับโครงการใหม่ที่เน้น sustainability
+Paper Work,Light Context,ช่วยร่าง announcement แจ้งทีมเกี่ยวกับการเปลี่ยน marketing strategy
+Paper Work,Light Context,ขอ internal report สรุปยอดขายสินค้า tech ช่วง 6 เดือนแรก
+Paper Work,Light Context,Generate a media kit สำหรับ brand ใหม่ในตลาด fashion
+Paper Work,Light Context,ขอ project timeline สำหรับ launching event ของสินค้า FMCG
+Paper Work,Light Context,Generate press release สำหรับประกาศ partnership กับ influencer
+Paper Work,Light Context,ช่วยเขียน follow-up email สำหรับ lead ที่สนใจ service ของเรา
+Paper Work,Light Context,ร่าง internal email แจ้งทีมว่าเราจะ rebrand corporate identity
+Paper Work,Light Context,ขอ content calendar 1 เดือนสำหรับ Facebook page ร้านอาหาร
+Paper Work,Light Context,ช่วยร่าง thank you letter สำหรับลูกค้าที่เข้าร่วม campaign ล่าสุด
+Paper Work,Light Context,Generate a proposal สำหรับจัด workshop ด้าน digital marketing
+Paper Work,Light Context,ขอ memo แจ้งเตือนทีมเกี่ยวกับ deadline ของ Q3 campaign
+Paper Work,Light Context,Compose a formal letter สำหรับขอใบเสนอราคาจาก supplier
+Paper Work,Light Context,ขอ meeting agenda สำหรับประชุมวางแผน campaign ใหม่
+Paper Work,Light Context,Generate email template สำหรับแจ้งลูกค้าเกี่ยวกับ product restock
+Paper Work,Light Context,ช่วยร่าง press release สำหรับเปิดตัว mobile app ใหม่
+Paper Work,Light Context,ขอ template สำหรับขอ review จากลูกค้าหลังใช้งานสินค้า fashion
+Paper Work,Light Context,Compose a partnership proposal สำหรับร้านอาหารเปิดใหม่
+Paper Work,Light Context,Generate monthly report สรุป performance ของ influencer campaign
+Paper Work,Light Context,ช่วยเขียน announcement แจ้งทีมเรื่องเปลี่ยนแปลง leadership
+Paper Work,Light Context,ขอ proposal สำหรับจัด CSR event ในโรงเรียน
+Paper Work,Full Context,บริษัท FMCG ต้องการสร้าง quarterly report สรุปยอดขาย, conversion rate, และแนะนำ action plan สำหรับ Q4 ให้ผู้บริหาร ช่วยเขียนรายงานนี้ให้ครบถ้วน
+Paper Work,Full Context,ทีม marketing ของบริษัทอสังหาริมทรัพย์กำลังจะ pitch campaign ใหม่กับลูกค้า corporate โดยต้องเน้น ROI, budget, และ execution timeline ช่วยร่าง proposal ฉบับสมบูรณ์
+Paper Work,Full Context,บริษัท education tech ต้องการ internal email แจ้งเปลี่ยน strategy ด้าน content marketing พร้อมสรุปเหตุผลและแนวทางใหม่ให้ทีมงานทุกคนเข้าใจง่าย
+Paper Work,Full Context,เราต้องการ press release สำหรับเปิดตัว mobile app ที่เน้น target group กลุ่มนักศึกษา โดยต้องมี key message เรื่อง usability และ security
+Paper Work,Full Context,ทีม creative ต้องการ project brief สำหรับ fashion campaign ที่จะถ่ายทำ outdoor, เน้นความ playful และต้องมี deliverable เป็น video กับ social post
+Paper Work,Full Context,บริษัท tech startup ต้องการ proposal สำหรับ joint venture กับ partner ต่างประเทศ โดยต้องสรุป business model, benefit, และ execution plan
+Paper Work,Full Context,ขอ internal report สำหรับสรุปผลการใช้ influencer ใน campaign ล่าสุด พร้อม insight และข้อเสนอแนะสำหรับ improvement
+Paper Work,Full Context,บริษัท fashion ต้องการ content calendar 3 เดือนสำหรับโปรโมทสินค้าใหม่ผ่าน Instagram, Facebook, และ TikTok
+Paper Work,Full Context,ขอ press release สำหรับเปิดตัวคอนโด luxury ที่เน้น eco-friendly และ smart home system
+Paper Work,Full Context,ทีม marketing ของบริษัท FMCG ต้องเขียน internal memo แจ้งเปลี่ยน packaging ใหม่ พร้อมสรุป benefit และผลต่อ brand image
+Paper Work,Full Context,ขอ proposal สำหรับจัด training session ให้กับทีมขายของบริษัท real estate โดยเน้น digital marketing skill
+Paper Work,Full Context,บริษัท education tech ต้องการ business letter แจ้ง partner เรื่องเปลี่ยนแปลง product feature และ timeline rollout
+Paper Work,Full Context,ขอ meeting agenda สำหรับประชุม brainstorm campaign B2B ที่เน้น lead generation
+Paper Work,Full Context,บริษัท tech ต้องการรายงานสรุป performance ของ Q2 digital ads, KPI, และข้อเสนอแนะ optimization
+Paper Work,Full Context,ขอ memo แจ้งเตือนทีม marketing ให้เตรียมพร้อมสำหรับ seasonal campaign ที่จะเริ่มเดือนหน้า
+Paper Work,Full Context,บริษัท FMCG ต้องการ event recap สำหรับ roadshow ที่จัดใน 5 จังหวัด พร้อมสรุปผลและ feedback จากลูกค้า
+Paper Work,Full Context,ขอ template email สำหรับแจ้งลูกค้าเกี่ยวกับการปรับปรุง privacy policy
+Paper Work,Full Context,บริษัทอสังหาฯ ต้องการ proposal สำหรับจัด community event เพื่อสร้าง engagement กับลูกบ้าน
+Paper Work,Full Context,ทีม content ขอ project brief สำหรับ launching campaign สินค้า tech ที่เน้น target group วัยทำงาน
+Paper Work,Full Context,บริษัท fashion ต้องการ thank you letter สำหรับ partner ที่ร่วมมือใน influencer campaign
+Paper Work,Full Context,ขอ internal announcement แจ้งทีมเรื่องเปลี่ยน structure ของ marketing department
+Paper Work,Full Context,บริษัท tech ต้องการ press release สำหรับประกาศความร่วมมือกับมหาวิทยาลัยชื่อดังด้าน AI research
+Paper Work,Full Context,ขอ proposal สำหรับจัด CSR project ในโรงเรียนชนบท โดยเน้นการใช้ digital technology
+Paper Work,Full Context,ทีม marketing ต้องการรายงานสรุปผลของ loyalty program พร้อม insight และ action plan
+Paper Work,Full Context,บริษัท real estate ต้องการ business letter สำหรับแจ้งลูกค้าเรื่อง new launch และ pre-sale event
+Paper Work,Full Context,ขอ internal memo สรุปผล survey ความพึงพอใจของทีมงานหลังใช้ marketing tool ใหม่
+Summary,Without Context,ช่วยสรุป feedback จากลูกค้าสำหรับสินค้า tech ตัวล่าสุด
+Summary,Without Context,สรุปเนื้อหา campaign brief ภาษาไทย
+Summary,Without Context,Summarize key points จาก marketing meeting เมื่อวานนี้
+Summary,Without Context,ช่วยสรุปผลลัพธ์ของ Facebook Ads campaign เดือนที่ผ่านมา
+Summary,Without Context,สรุปเนื้อหา webinar ด้าน digital marketing ที่ทีมเข้าร่วม
+Summary,Without Context,ช่วยสรุป customer review สำหรับสินค้า fashion
+Summary,Without Context,สรุปข้อมูลจาก survey ที่ส่งให้ target group
+Summary,Without Context,ช่วย summarize รายงานยอดขายประจำเดือน
+Summary,Without Context,สรุปข้อเสนอแนะจาก partner agency
+Summary,Without Context,ช่วยสรุปเนื้อหา press release ล่าสุดของบริษัทอสังหาฯ
+Summary,Without Context,สรุปผลลัพธ์ของ TikTok campaign รอบล่าสุด
+Summary,Without Context,ช่วย summarize feedback จาก internal training session
+Summary,Without Context,สรุป insight จาก user comments ใน Instagram post
+Summary,Without Context,ช่วยสรุปเนื้อหา conference call กับทีม creative
+Summary,Without Context,สรุป key takeaway จาก event ที่เพิ่งจัดเสร็จ
+Summary,Without Context,ช่วย summarize ผลการทดสอบ product ใหม่
+Summary,Without Context,สรุปข้อดีข้อเสียของ marketing channel ต่างๆ
+Summary,Without Context,ช่วยสรุปผลลัพธ์ของ email marketing เดือนนี้
+Summary,Without Context,สรุปเนื้อหา brand guideline ภาษาไทย
+Summary,Without Context,ช่วย summarize pain point จาก customer journey map
+Summary,Without Context,สรุปผลการใช้ influencer ในแคมเปญล่าสุด
+Summary,Without Context,ช่วยสรุปเนื้อหา workshop ที่ทีมเข้าร่วม
+Summary,Without Context,สรุปผลลัพธ์ของ Google Ads campaign
+Summary,Without Context,ช่วยสรุปข้อเสนอแนะจากลูกค้าหลังจบ event
+Summary,Without Context,สรุปเนื้อหา press conference ล่าสุด
+Summary,Without Context,ช่วย summarize key insight จาก focus group
+Summary,Without Context,สรุปเนื้อหา sales report เดือนนี้
+Summary,Without Context,ช่วยสรุปข้อดีข้อเสียของ loyalty program
+Summary,Without Context,สรุปผลลัพธ์ของ campaign ที่ใช้ multiple channels
+Summary,Without Context,ช่วย summarize feedback จาก customer service chat
+Summary,Light Context,ขอ summary สั้นๆ ของ customer insight สำหรับสินค้า FMCG ที่เพิ่งเปิดตัว
+Summary,Light Context,ช่วยสรุปเนื้อหา PR event ล่าสุดของบริษัทอสังหาฯ เป็น bullet points
+Summary,Light Context,ทีม content ขอ summary ของ user comments ใน TikTok campaign รอบนี้
+Summary,Light Context,ขอสรุป feedback จาก partner agency ที่ส่งมาเกี่ยวกับ KPI ของเรา
+Summary,Light Context,ช่วยสรุป key takeaway จาก internal training session ด้าน branding
+Summary,Light Context,ช่วย summarize ผลการทดสอบสินค้า tech ที่เพิ่ง launch
+Summary,Light Context,ขอ summary insight จาก survey ของ target group วัยรุ่น
+Summary,Light Context,ช่วยสรุปเนื้อหา webinar ด้าน digital marketing ที่จัดสัปดาห์ที่ผ่านมา
+Summary,Light Context,ขอสรุปผลลัพธ์ของ Facebook campaign ที่เน้น engagement
+Summary,Light Context,ช่วย summarize ข้อดีข้อเสียของโปรโมชั่น flash sale
+Summary,Light Context,ขอ summary สั้นๆ ของ event ที่จัดในห้างสรรพสินค้า
+Summary,Light Context,ช่วยสรุป insight จาก customer review ใน Shopee
+Summary,Light Context,ขอ summary ผลลัพธ์ของ Instagram story campaign
+Summary,Light Context,ช่วย summarize ข้อเสนอแนะจากลูกค้าหลังใช้บริการ delivery
+Summary,Light Context,ขอสรุปเนื้อหา creative brief สำหรับ seasonal campaign
+Summary,Light Context,ช่วยสรุปผลลัพธ์ของ PR stunt ที่เพิ่งทำ
+Summary,Light Context,ขอ summary insight จาก social listening report
+Summary,Light Context,ช่วยสรุป feedback จากลูกค้า B2B หลังจบ workshop
+Summary,Light Context,ขอสรุปเนื้อหา press release สำหรับเปิดตัวสินค้าใหม่
+Summary,Light Context,ช่วย summarize ข้อดีข้อเสียของ influencer collaboration
+Summary,Light Context,ขอ summary ผลลัพธ์ของ LINE OA campaign
+Summary,Light Context,ช่วยสรุป insight จาก Google Analytics report
+Summary,Light Context,ขอสรุป key takeaway จาก customer interview
+Summary,Light Context,ช่วย summarize ข้อเสนอแนะจากทีมขาย
+Summary,Light Context,ขอสรุปผลลัพธ์ของ YouTube Ads campaign
+Summary,Light Context,ช่วย summarize insight จาก Facebook group discussion
+Summary,Light Context,ขอสรุปเนื้อหา meeting กับ partner agency
+Summary,Light Context,ช่วยสรุป feedback จากลูกค้าที่ใช้บริการครั้งแรก
+Summary,Full Context,ในงานสัมมนา real estate ที่ผ่านมา มี panel discussion เรื่อง digital transformation, customer journey, และ pain point ของลูกค้า ช่วยสรุปเนื้อหาแต่ละหัวข้อให้เข้าใจง่าย
+Summary,Full Context,ทีม marketing ได้รับ survey feedback จาก target group กลุ่มวัยรุ่นเกี่ยวกับ online learning platform ขอให้สรุป pain point, จุดแข็ง, และข้อเสนอแนะหลัก
+Summary,Full Context,บริษัท fashion ได้จัด campaign ร่วมกับ influencer 5 คน พร้อมเก็บ data engagement, reach, และ sentiment analysis ช่วยสรุปภาพรวมผลลัพธ์และ insight ที่ได้
+Summary,Full Context,ทีม creative ได้ brainstorm concept ใหม่สำหรับ seasonal campaign โดยมีโจทย์เรื่อง sustainability, playful, และต้อง align กับ brand value ช่วยสรุปไอเดียหลักและข้อเสนอแนะ
+Summary,Full Context,ทีม PR ได้จัด media interview กับ CEO ของบริษัท tech เรื่อง future trend และ brand vision ช่วยสรุปเนื้อหาสำคัญเป็น 5 ข้อ
+Summary,Full Context,ทีม content ได้รับ customer feedback ผ่าน LINE OA, Facebook, และ email สำหรับสินค้า FMCG ใหม่ ขอให้สรุป insight จากทุกช่องทางและแนะนำ next step
+Summary,Full Context,บริษัทอสังหาฯ ได้จัด event เปิดตัวโครงการใหม่ โดยมี press coverage, influencer review, และ customer feedback ช่วยสรุปผลลัพธ์และข้อเสนอแนะสำหรับ improvement
+Summary,Full Context,ทีม marketing ของบริษัท tech เพิ่งจบ webinar สำหรับกลุ่มเป้าหมาย B2B ขอให้สรุป key takeaway, pain point, และข้อเสนอแนะจาก Q&A session
+Summary,Full Context,ทีม creative ได้เสนอ 3 concept สำหรับ fashion campaign ใหม่ โดยแต่ละ concept เน้น value proposition ต่างกัน ช่วยสรุปข้อดีข้อเสียของแต่ละแนวทาง
+Summary,Full Context,ทีม PR ได้รับ feedback จาก media และ blogger หลังจบ press trip ขอให้สรุป insight, highlight, และข้อเสนอแนะสำหรับ campaign หน้า
+Summary,Full Context,บริษัท education tech ได้รับ survey result จากนักเรียนและผู้ปกครองหลังใช้ platform ใหม่ ช่วยสรุป pain point, จุดแข็ง, และข้อเสนอแนะ
+Summary,Full Context,ทีม marketing ได้จัด campaign online/offline สำหรับสินค้า FMCG โดยมี data engagement, sales, และ customer review ช่วยสรุปผลลัพธ์และ insight
+Summary,Full Context,ทีม content ได้รับ feedback จากผู้ใช้ LINE OA เกี่ยวกับโปรโมชั่น flash sale ช่วยสรุป key insight และข้อเสนอแนะสำหรับ improvement
+Summary,Full Context,บริษัทอสังหาฯ ได้จัดงานเปิดตัวคอนโด luxury โดยมี press, influencer, และลูกค้ากลุ่มเป้าหมายเข้าร่วม ช่วยสรุปผลลัพธ์, feedback, และข้อเสนอแนะ
+Summary,Full Context,ทีม creative ได้ brainstorm idea สำหรับ CSR campaign โดยต้อง align กับ brand value และเน้น sustainability ช่วยสรุปแนวทางหลักและข้อเสนอแนะ
+Summary,Full Context,ทีม PR ได้สัมภาษณ์ CEO บริษัท tech เรื่อง innovation, brand vision, และ market trend ขอให้สรุป key message สำหรับใช้ใน media kit
+Summary,Full Context,ทีม content ได้รับ customer complaint ผ่าน social media สำหรับสินค้า fashion ใหม่ ช่วยสรุป pain point และแนะนำ action plan
+Summary,Full Context,บริษัท FMCG ได้จัด campaign ร่วมกับ partner agency โดยมี data KPI, ROI, และ feedback ช่วยสรุปภาพรวมและ insight
+Summary,Full Context,ทีม marketing ได้รับผลการทดสอบสินค้า tech จาก user group 3 กลุ่ม ช่วยสรุปข้อดีข้อเสียและแนะนำ improvement
+Summary,Full Context,ทีม creative ได้รับ feedback จาก influencer ที่ร่วมงานใน campaign ล่าสุด ช่วยสรุป insight และข้อเสนอแนะสำหรับ collaboration หน้า
+Summary,Full Context,บริษัทอสังหาฯ ได้จัด press conference สำหรับเปิดตัวโครงการใหม่ ช่วยสรุปเนื้อหา, Q&A, และข้อเสนอแนะจากสื่อ
+Summary,Full Context,ทีม PR ได้รับ feedback จาก blogger หลังจบ press trip ขอให้สรุป insight, highlight, และข้อเสนอแนะสำหรับ campaign หน้า
+Summary,Full Context,ทีม content ได้รับ customer feedback ผ่าน LINE OA, Facebook, และ email สำหรับสินค้า FMCG ใหม่ ขอให้สรุป insight จากทุกช่องทางและแนะนำ next step
+Summary,Full Context,บริษัท fashion ได้จัด campaign ร่วมกับ influencer 5 คน พร้อมเก็บ data engagement, reach, และ sentiment analysis ช่วยสรุปภาพรวมผลลัพธ์และ insight ที่ได้
+Summary,Full Context,ทีม creative ได้ brainstorm concept ใหม่สำหรับ seasonal campaign โดยมีโจทย์เรื่อง sustainability, playful, และต้อง align กับ brand value ช่วยสรุปไอเดียหลักและข้อเสนอแนะ
+Summary,Full Context,ทีม PR ได้จัด media interview กับ CEO ของบริษัท tech เรื่อง future trend และ brand vision ช่วยสรุปเนื้อหาสำคัญเป็น 5 ข้อ
+Summary,Full Context,ทีม marketing ได้รับ survey feedback จาก target group กลุ่มวัยรุ่นเกี่ยวกับ online learning platform ขอให้สรุป pain point, จุดแข็ง, และข้อเสนอแนะหลัก
+Paraphrase,Without Context,Paraphrase ข้อความนี้ให้ดู friendly มากขึ้นสำหรับ social post
+Paraphrase,Without Context,ช่วย rewrite product description ให้ดู premium และน่าเชื่อถือขึ้น
+Paraphrase,Without Context,Paraphrase ข้อความขอบคุณลูกค้าให้เหมาะกับ email marketing
+Paraphrase,Without Context,ช่วย reword press release นี้ให้สั้น กระชับ และเป็นกันเอง
+Paraphrase,Without Context,เขียน caption ใหม่สำหรับโพสต์ Facebook ที่เน้น playful tone
+Paraphrase,Without Context,Paraphrase ข้อความใน announcement ให้ดูเป็นทางการมากขึ้น
+Paraphrase,Without Context,ช่วย reword product review ให้เหมาะกับใช้ใน Instagram story
+Paraphrase,Without Context,Paraphrase ข้อความใน email แจ้งโปรโมชั่นให้ดูอบอุ่น
+Paraphrase,Without Context,ช่วย rewrite ข้อความใน internal memo ให้เข้าใจง่ายขึ้น
+Paraphrase,Without Context,Paraphrase คำเชิญเข้าร่วม event ให้ดูเป็นกันเอง
+Paraphrase,Without Context,ช่วย rewrite copy ใน banner ad ให้ creative ขึ้น
+Paraphrase,Without Context,Paraphrase ข้อความใน campaign brief ให้เหมาะกับกลุ่มเป้าหมายวัยรุ่น
+Paraphrase,Without Context,ช่วย reword thank you note สำหรับลูกค้ากลุ่ม B2B
+Paraphrase,Without Context,Paraphrase ข้อความใน press release ให้เหมาะกับใช้ใน LinkedIn
+Paraphrase,Without Context,ช่วย rewrite FAQ ให้สั้น กระชับ และเข้าใจง่าย
+Paraphrase,Without Context,Paraphrase ข้อความใน customer testimonial ให้ดูน่าเชื่อถือขึ้น
+Paraphrase,Without Context,ช่วย reword product announcement ให้เหมาะกับใช้ใน LINE OA
+Paraphrase,Without Context,Paraphrase คำขอโทษใน email ให้ดูใส่ใจลูกค้า
+Paraphrase,Without Context,ช่วย rewrite campaign slogan ให้ playful มากขึ้น
+Paraphrase,Without Context,Paraphrase ข้อความใน internal announcement ให้ดูเป็นมืออาชีพ
+Paraphrase,Without Context,ช่วย reword press release สำหรับสินค้า tech ให้ดู innovative
+Paraphrase,Without Context,Paraphrase ข้อความใน product launch ให้เหมาะกับใช้ใน Facebook
+Paraphrase,Without Context,ช่วย rewrite thank you letter ให้ดูอบอุ่น
+Paraphrase,Without Context,Paraphrase ข้อความใน email แจ้งโปรโมชั่นให้ดู exclusive
+Paraphrase,Without Context,ช่วย reword product description สำหรับสินค้า fashion ให้ดู luxury
+Paraphrase,Without Context,Paraphrase ข้อความใน campaign announcement ให้ดูสั้น กระชับ
+Paraphrase,Without Context,ช่วย rewrite ข้อความใน press release ให้เหมาะกับใช้ใน media kit
+Paraphrase,Without Context,Paraphrase ข้อความใน customer review ให้เหมาะกับใช้ใน social post
+Paraphrase,Without Context,ช่วย reword caption สำหรับ Instagram ให้ดู creative
+Paraphrase,Light Context,ข้อความใน campaign brief นี้ดูเป็นทางการเกินไป ช่วย paraphrase ให้เหมาะกับกลุ่มเป้าหมายวัยรุ่น
+Paraphrase,Light Context,เราต้องการปรับ copy ใน banner ad ให้ดู creative และดึงดูดสายตามากขึ้น ช่วย rewrite ให้หน่อย
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน email แจ้งโปรโมชั่น ให้ดูอบอุ่นและเป็นกันเองมากขึ้น
+Paraphrase,Light Context,ช่วย rewrite product review ให้เหมาะกับใช้ใน Instagram story
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน internal memo ให้ดูสั้นและเข้าใจง่ายขึ้นสำหรับทีมงาน
+Paraphrase,Light Context,ช่วย rewrite thank you note สำหรับลูกค้า B2B ให้ดูเป็นทางการ
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน press release ให้เป็น friendly tone สำหรับ Facebook post
+Paraphrase,Light Context,ช่วย rewrite product announcement ให้เหมาะกับใช้ใน LINE OA
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน campaign announcement ให้ playful มากขึ้น
+Paraphrase,Light Context,ช่วย rewrite FAQ ให้เหมาะกับใช้ใน email newsletter
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน thank you letter ให้ดูอบอุ่น
+Paraphrase,Light Context,ช่วย rewrite copy ใน banner ad ให้เหมาะกับสินค้า fashion
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน product description ให้ดู luxury
+Paraphrase,Light Context,ช่วย rewrite press release สำหรับสินค้า tech ให้ดู innovative
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน product launch ให้เหมาะกับใช้ใน Facebook
+Paraphrase,Light Context,ช่วย rewrite thank you note สำหรับลูกค้ากลุ่ม B2B
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน campaign brief ให้เหมาะกับกลุ่มเป้าหมายวัยรุ่น
+Paraphrase,Light Context,ช่วย rewrite product review ให้เหมาะกับใช้ใน Instagram story
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน email แจ้งโปรโมชั่น ให้ดู exclusive
+Paraphrase,Light Context,ช่วย rewrite product description สำหรับสินค้า fashion ให้ดู luxury
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน campaign announcement ให้ดูสั้น กระชับ
+Paraphrase,Light Context,ช่วย rewrite ข้อความใน press release ให้เหมาะกับใช้ใน media kit
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน customer review ให้เหมาะกับใช้ใน social post
+Paraphrase,Light Context,ช่วย rewrite caption สำหรับ Instagram ให้ดู creative
+Paraphrase,Light Context,ขอ paraphrase ข้อความใน thank you letter ให้ดูอบอุ่น
+Paraphrase,Full Context,บริษัท fashion ต้องการปรับ product description สำหรับสินค้า limited edition ให้ดู luxury, creative, และ align กับ brand DNA ช่วย rewrite ให้ครบทุกจุดสำคัญ
+Paraphrase,Full Context,ทีม marketing ได้รับ customer complaint ทาง social media ที่ใช้ถ้อยคำแรง ต้องการ paraphrase คำตอบให้ดูสุภาพ, ใส่ใจลูกค้า, และยังรักษา brand tone
+Paraphrase,Full Context,บริษัท tech ต้องการ rewrite press release เดิมให้เหมาะกับใช้ใน LinkedIn โดยเน้น professional tone, concise, และใส่ keyword ด้าน innovation
+Paraphrase,Full Context,ทีม content มีบทความยาวสำหรับ SEO แต่ต้องการ paraphrase ให้สั้นลงสำหรับใช้ใน email newsletter
+Paraphrase,Full Context,ทีม PR ได้รับ interview transcript ของ CEO ที่พูดยาวมาก ต้องการ paraphrase ให้เป็น quote เด็ดๆ สำหรับใช้ใน media kit
+Paraphrase,Full Context,บริษัท FMCG ต้องการ rewrite ข้อความใน campaign announcement ให้เหมาะกับใช้ใน LINE OA, Facebook, และ email โดยต้อง align กับ brand tone
+Paraphrase,Full Context,ทีม creative ได้รับ feedback จากลูกค้า B2B เรื่อง product description ที่ดู technical เกินไป ต้องการ paraphrase ให้เข้าใจง่ายและดู friendly
+Paraphrase,Full Context,บริษัทอสังหาฯ ต้องการ rewrite thank you letter สำหรับลูกค้าที่ซื้อบ้านใหม่ให้ดูอบอุ่นและเป็นกันเอง
+Paraphrase,Full Context,ทีม marketing ได้รับ customer complaint เรื่องบริการ delivery ต้องการ paraphrase คำตอบให้สุภาพและใส่ใจลูกค้า
+Paraphrase,Full Context,บริษัท tech ต้องการ rewrite product review จาก influencer ให้เหมาะกับใช้ใน Instagram story และ Facebook post
+Paraphrase,Full Context,ทีม content มีบทความยาวสำหรับ SEO แต่ต้องการ paraphrase ให้สั้นลงสำหรับใช้ใน email newsletter
+Paraphrase,Full Context,บริษัท fashion ต้องการปรับ product description สำหรับสินค้า limited edition ให้ดู luxury, creative, และ align กับ brand DNA ช่วย rewrite ให้ครบทุกจุดสำคัญ
+Paraphrase,Full Context,ทีม marketing ได้รับ customer complaint ทาง social media ที่ใช้ถ้อยคำแรง ต้องการ paraphrase คำตอบให้ดูสุภาพ, ใส่ใจลูกค้า, และยังรักษา brand tone
+Paraphrase,Full Context,บริษัท tech ต้องการ rewrite press release เดิมให้เหมาะกับใช้ใน LinkedIn โดยเน้น professional tone, concise, และใส่ keyword ด้าน innovation
+Paraphrase,Full Context,ทีม PR ได้รับ interview transcript ของ CEO ที่พูดยาวมาก ต้องการ paraphrase ให้เป็น quote เด็ดๆ สำหรับใช้ใน media kit
+Paraphrase,Full Context,บริษัท FMCG ต้องการ rewrite ข้อความใน campaign announcement ให้เหมาะกับใช้ใน LINE OA, Facebook, และ email โดยต้อง align กับ brand tone
+Paraphrase,Full Context,ทีม creative ได้รับ feedback จากลูกค้า B2B เรื่อง product description ที่ดู technical เกินไป ต้องการ paraphrase ให้เข้าใจง่ายและดู friendly
+Paraphrase,Full Context,บริษัทอสังหาฯ ต้องการ rewrite thank you letter สำหรับลูกค้าที่ซื้อบ้านใหม่ให้ดูอบอุ่นและเป็นกันเอง
+Paraphrase,Full Context,ทีม marketing ได้รับ customer complaint เรื่องบริการ delivery ต้องการ paraphrase คำตอบให้สุภาพและใส่ใจลูกค้า
+Paraphrase,Full Context,บริษัท tech ต้องการ rewrite product review จาก influencer ให้เหมาะกับใช้ใน Instagram story และ Facebook post
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นลูกค้า ถามเรื่องโปรโมชั่นใหม่ของแบรนด์ fashion
+Simulation Role Play as a Character,Without Context,Act as a client ขอสอบถาม timeline ของ campaign rollout
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็น influencer ขอข้อมูลเกี่ยวกับ product collaboration
+Simulation Role Play as a Character,Without Context,Act as a boss ขอ update KPI ของ marketing team รอบนี้
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นทีม creative ขอ feedback จาก marketing manager เรื่อง concept campaign
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นลูกค้า ขอสอบถามเงื่อนไขการรับประกันสินค้า tech
+Simulation Role Play as a Character,Without Context,Act as a partner agency ขอรายละเอียดของ campaign brief
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็น vendor ขอสอบถาม payment term สำหรับงาน event
+Simulation Role Play as a Character,Without Context,Act as a team lead ขอ update เรื่อง budget allocation สำหรับ Q3 campaign
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นลูกค้า corporate ขอเสนอแนะเกี่ยวกับ loyalty program
+Simulation Role Play as a Character,Without Context,Act as a creative director ขอข้อมูลเกี่ยวกับ target group ของ campaign
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นลูกค้า ถามเรื่องโปรโมชั่น flash sale ผ่าน LINE OA
+Simulation Role Play as a Character,Without Context,Act as a sales rep ขอรายละเอียด product feature ใหม่
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็น partner ขอขอ marketing material สำหรับ joint campaign
+Simulation Role Play as a Character,Without Context,Act as a client ขอ report performance ของ Facebook Ads
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็น influencer ขอขอข้อมูลเกี่ยวกับ compensation และ deliverable
+Simulation Role Play as a Character,Without Context,Act as a boss ขอ roadmap สำหรับ Q4 marketing strategy
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นลูกค้า ถามเรื่องการใช้ point ใน loyalty app
+Simulation Role Play as a Character,Without Context,Act as a team lead ขอ feedback เรื่อง creative concept ใหม่
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นลูกค้า B2B ขอใบเสนอราคาสำหรับ bulk order
+Simulation Role Play as a Character,Without Context,Act as a PR manager ขอข้อมูลเกี่ยวกับ press release ล่าสุด
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็น partner ขอรายละเอียดเกี่ยวกับ co-promotion
+Simulation Role Play as a Character,Without Context,Act as a digital agency ขอข้อมูลเกี่ยวกับ target KPI ของ client
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็นลูกค้า ถามเรื่องการคืนสินค้า
+Simulation Role Play as a Character,Without Context,Act as a creative team ขอ feedback เรื่อง video script
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็น influencer ขอขอข้อมูลเกี่ยวกับ brand guideline
+Simulation Role Play as a Character,Without Context,Act as a boss ขอ update เรื่อง campaign performance
+Simulation Role Play as a Character,Without Context,สมมติว่าคุณเป็น team lead ขอขอข้อมูลเกี่ยวกับ budget plan
+Simulation Role Play as a Character,Without Context,Act as a client ขอสอบถามเรื่องการ optimize conversion rate
+Simulation Role Play as a Character,Light Context,คุณเป็นลูกค้าได้รับสินค้า tech แล้วพบปัญหา usage สมมติถาม support team ว่าต้องทำอย่างไร
+Simulation Role Play as a Character,Light Context,คุณเป็น partner agency ขอรายละเอียด brief สำหรับ project ใหม่ที่จะเริ่มเดือนหน้า
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็นลูกค้า corporate ขอเสนอแนะเกี่ยวกับ loyalty program ที่ใช้อยู่
+Simulation Role Play as a Character,Light Context,Act as a team lead ขอ update เรื่อง budget allocation สำหรับ Q3 campaign
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็น vendor ขอสอบถาม payment term สำหรับงาน event ล่าสุด
+Simulation Role Play as a Character,Light Context,คุณเป็น influencer ที่ได้รับ product จาก brand fashion แล้วอยาก feedback เรื่อง sizing
+Simulation Role Play as a Character,Light Context,Act as a boss ขอ update เรื่อง campaign performance รอบนี้
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็น creative ขอ feedback เรื่อง concept สำหรับ seasonal campaign
+Simulation Role Play as a Character,Light Context,คุณเป็นลูกค้า B2B ขอขอใบเสนอราคาสำหรับ bulk order
+Simulation Role Play as a Character,Light Context,Act as a PR manager ขอข้อมูลเกี่ยวกับ press release ล่าสุด
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็น partner ขอรายละเอียดเกี่ยวกับ co-promotion
+Simulation Role Play as a Character,Light Context,Act as a digital agency ขอข้อมูลเกี่ยวกับ target KPI ของ client
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็นลูกค้า ถามเรื่องการคืนสินค้า
+Simulation Role Play as a Character,Light Context,Act as a creative team ขอ feedback เรื่อง video script
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็น influencer ขอข้อมูล brand guideline สำหรับ campaign
+Simulation Role Play as a Character,Light Context,Act as a boss ขอ update เรื่อง campaign performance
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็น team lead ขอข้อมูล budget plan สำหรับ Q1
+Simulation Role Play as a Character,Light Context,Act as a client ขอสอบถามวิธี optimize conversion rate
+Simulation Role Play as a Character,Light Context,คุณเป็นลูกค้าได้รับสินค้าแฟชั่นแล้วไม่พอใจคุณภาพ ขอร้องเรียนผ่าน LINE OA
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็น partner ขอสอบถามเรื่อง joint marketing activity
+Simulation Role Play as a Character,Light Context,Act as a creative ขอ feedback จาก marketing manager เรื่อง script โฆษณา
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็น influencer ขอสอบถามเรื่อง compensation structure
+Simulation Role Play as a Character,Light Context,Act as a boss ขอ roadmap สำหรับ Q2 marketing strategy
+Simulation Role Play as a Character,Light Context,สมมติว่าคุณเป็นลูกค้า B2C ขอสอบถามเรื่อง loyalty point
+Simulation Role Play as a Character,Light Context,Act as a team lead ขอ feedback เรื่อง creative direction
+Simulation Role Play as a Character,Full Context,คุณเป็นลูกค้า real estate ที่สนใจซื้อคอนโด แต่ต้องการข้อมูลเรื่องโปรโมชั่น, สิทธิพิเศษ, และเปรียบเทียบกับคู่แข่ง สมมติถาม sales team ให้ละเอียด
+Simulation Role Play as a Character,Full Context,สมมติว่าคุณเป็น marketing intern ได้รับมอบหมายให้ขอ feedback จาก influencer ที่ร่วมงานใน campaign ล่าสุด ต้องถามเรื่อง workflow, compensation, และประสบการณ์ร่วมงาน
+Simulation Role Play as a Character,Full Context,คุณเป็น client ของ digital agency ต้องการขอ report performance ของ Facebook Ads, KPI, และ ROI พร้อมขอคำแนะนำสำหรับ optimization รอบหน้า
+Simulation Role Play as a Character,Full Context,Act as a boss ที่ต้องการให้ marketing team สรุปผลกิจกรรม PR event พร้อมข้อเสนอแนะสำหรับ improvement รอบต่อไป
+Simulation Role Play as a Character,Full Context,สมมติว่าคุณเป็น influencer ที่ได้รับ product จากแบรนด์ fashion แล้วมีปัญหาเรื่อง sizing ต้องการ feedback กลับไปที่ brand manager ให้ปรับปรุง future collection
+Simulation Role Play as a Character,Full Context,คุณเป็นลูกค้าได้รับสินค้า tech แล้วพบว่าฟีเจอร์ที่โฆษณาไว้ไม่ตรงกับที่ได้รับ ต้องการร้องเรียนและขอ refund ผ่าน email
+Simulation Role Play as a Character,Full Context,Act as a creative director ที่ต้องการ feedback จาก marketing manager เรื่อง concept สำหรับ seasonal campaign ที่จะถ่ายทำ outdoor
+Simulation Role Play as a Character,Full Context,สมมติว่าคุณเป็น partner agency ขอรายละเอียดเกี่ยวกับ timeline, deliverable, และ budget สำหรับ joint campaign
+Simulation Role Play as a Character,Full Context,คุณเป็นลูกค้า corporate ต้องการเสนอแนะเกี่ยวกับ loyalty program ที่ใช้อยู่ พร้อมขอ feature ใหม่ที่เหมาะกับ business customer
+Simulation Role Play as a Character,Full Context,Act as a boss ที่ต้องการให้ marketing team สรุปผล campaign พร้อมข้อเสนอแนะสำหรับ improvement รอบต่อไป
+Simulation Role Play as a Character,Full Context,สมมติว่าคุณเป็น influencer ที่ได้รับ product จากแบรนด์ fashion แล้วมีปัญหาเรื่อง sizing ต้องการ feedback กลับไปที่ brand manager ให้ปรับปรุง future collection
+Simulation Role Play as a Character,Full Context,คุณเป็น client ของ digital agency ต้องการขอ report performance ของ Facebook Ads, KPI, และ ROI พร้อมขอคำแนะนำสำหรับ optimization รอบหน้า
+Simulation Role Play as a Character,Full Context,Act as a boss ที่ต้องการให้ marketing team สรุปผลกิจกรรม PR event พร้อมข้อเสนอแนะสำหรับ improvement รอบต่อไป
+Simulation Role Play as a Character,Full Context,สมมติว่าคุณเป็น marketing intern ได้รับมอบหมายให้ขอ feedback จาก influencer ที่ร่วมงานใน campaign ล่าสุด ต้องถามเรื่อง workflow, compensation, และประสบการณ์ร่วมงาน
+Simulation Role Play as a Character,Full Context,คุณเป็นลูกค้า real estate ที่สนใจซื้อคอนโด แต่ต้องการข้อมูลเรื่องโปรโมชั่น, สิทธิพิเศษ, และเปรียบเทียบกับคู่แข่ง สมมติถาม sales team ให้ละเอียด
+Simulation Role Play as a Character,Full Context,Act as a creative director ที่ต้องการ feedback จาก marketing manager เรื่อง concept สำหรับ seasonal campaign ที่จะถ่ายทำ outdoor
+Simulation Role Play as a Character,Full Context,สมมติว่าคุณเป็น partner agency ขอรายละเอียดเกี่ยวกับ timeline, deliverable, และ budget สำหรับ joint campaign
+Simulation Role Play as a Character,Full Context,คุณเป็นลูกค้า corporate ต้องการเสนอแนะเกี่ยวกับ loyalty program ที่ใช้อยู่ พร้อมขอ feature ใหม่ที่เหมาะกับ business customer
+Simulation Role Play as a Character,Full Context,Act as a boss ที่ต้องการให้ marketing team สรุปผล campaign พร้อมข้อเสนอแนะสำหรับ improvement รอบต่อไป
+Reasoning,Without Context,กลยุทธ์ไหนช่วยเพิ่ม engagement บน social media ได้ดีกว่ากันระหว่างการใช้ influencer กับการจัด giveaway?
+Reasoning,Without Context,ควรเลือกใช้ Facebook Ads หรือ Google Ads สำหรับธุรกิจอสังหาริมทรัพย์เพื่อเพิ่ม conversion ดีมากกว่ากัน?
+Reasoning,Without Context,ระหว่างการทำ SEO กับ SEM อะไรช่วยให้ awareness campaign เห็นผลเร็วกว่า?
+Reasoning,Without Context,ควรใช้ content video หรือ image post ในการโปรโมทสินค้าแฟชั่นบน Instagram เพื่อเพิ่ม reach ได้มากกว่า?
+Reasoning,Without Context,กลยุทธ์ email marketing แบบ personalized หรือแบบ mass email อะไรเหมาะกับธุรกิจสุขภาพมากกว่า?
+Reasoning,Without Context,ควรลงทุนกับ PR event หรือ online webinar เพื่อเปิดตัวสินค้า tech ใหม่?
+Reasoning,Without Context,การใช้ micro influencer กับ macro influencer แบบไหนสร้าง brand loyalty ได้ดีกว่า?
+Reasoning,Without Context,ควรเลือกใช้ TikTok หรือ Facebook สำหรับ awareness campaign ของร้านอาหารใหม่?
+Reasoning,Without Context,การจัด campaign flash sale หรือ buy 1 get 1 ฟรี อะไรเหมาะกับธุรกิจ fashion มากกว่า?
+Reasoning,Without Context,ควรใช้ storytelling หรือ product demo video ในการสร้าง engagement บน YouTube?
+Reasoning,Without Context,แคมเปญแบบไหนเหมาะกับ target group วัยรุ่นมากกว่าระหว่าง meme marketing กับ educational content?
+Reasoning,Without Context,ควรเลือกใช้ SMS หรือ LINE OA สำหรับแจ้งโปรโมชัน flash sale ของร้านอาหาร?
+Reasoning,Without Context,กลยุทธ์ remarketing หรือ lookalike audience ช่วยเพิ่ม conversion rate ได้มากกว่ากัน?
+Reasoning,Without Context,ควรโฟกัสที่ awareness หรือ conversion campaign สำหรับสินค้าเปิดตัวใหม่ในกลุ่ม tech gadget?
+Reasoning,Without Context,การใช้ live streaming หรือ influencer review อะไรช่วยกระตุ้นยอดขายได้ดีกว่า?
+Reasoning,Without Context,ควรเลือกจัด event offline หรือ online สำหรับเปิดตัวอสังหาริมทรัพย์ใหม่?
+Reasoning,Without Context,กลยุทธ์ไหนเหมาะกับธุรกิจการศึกษา: webinar หรือ content series บน Facebook?
+Reasoning,Without Context,ควรใช้ UGC หรือ professional content ในการสร้าง trust ให้กับแบรนด์สุขภาพ?
+Reasoning,Without Context,ระหว่างการแจก free trial กับแจก discount code อะไรเหมาะกับแอปพลิเคชันใหม่มากกว่ากัน?
+Reasoning,Without Context,ควรเลือกใช้ content แบบ infographic หรือ video explainer ในการสื่อสารเรื่องการเงิน?
+Reasoning,Without Context,กลยุทธ์ referral program หรือ loyalty program แบบไหนสร้าง customer retention ได้ดีกว่า?
+Reasoning,Without Context,ควรใช้ email automation หรือ manual email blast สำหรับธุรกิจอสังหาฯ?
+Reasoning,Without Context,การใช้ real-time marketing หรือ evergreen content อะไรเหมาะกับธุรกิจอาหารมากกว่า?
+Reasoning,Without Context,ควรเลือกใช้ Facebook Group หรือ LINE Community สำหรับ engagement ของแบรนด์แฟชั่น?
+Reasoning,Without Context,กลยุทธ์ไหนเหมาะกับธุรกิจ B2B: LinkedIn Ads หรือ Google Search Ads?
+Reasoning,Without Context,ควรเลือกใช้ PR article หรือ advertorial สำหรับการสร้าง brand awareness ในธุรกิจสุขภาพ?
+Reasoning,Without Context,การใช้ challenge campaign หรือ hashtag campaign อะไรสร้าง viral ได้ดีกว่ากัน?
+Reasoning,Without Context,ควรเลือกใช้ podcast หรือ video content สำหรับธุรกิจการศึกษา?
+Reasoning,Without Context,กลยุทธ์ไหนเหมาะกับการเปิดตัวผลิตภัณฑ์ใหม่: soft launch หรือ grand opening event?
+Reasoning,Without Context,ควรเลือกใช้ content แบบ how-to หรือ testimonial สำหรับธุรกิจอสังหาริมทรัพย์?
+Reasoning,Light Context,"ธุรกิจแฟชั่นกำลังมองหาวิธีเพิ่มยอดขายผ่าน social media, ควรเลือกใช้ influencer หรือจัด flash sale campaign?"
+Reasoning,Light Context,"บริษัทอสังหาฯ ต้องการเพิ่ม lead ผ่าน online channel, ควรลงทุนกับ Facebook Lead Ads หรือ Google Search Ads?"
+Reasoning,Light Context,"ร้านอาหารใหม่ต้องการสร้าง awareness ในกลุ่มวัยรุ่น, ควรใช้ TikTok หรือ Instagram Reels?"
+Reasoning,Light Context,"ธุรกิจสุขภาพกำลังเลือกวิธีโปรโมทสินค้า, ควรใช้ content video หรือ review จาก influencer ดีกว่า?"
+Reasoning,Light Context,"แบรนด์เครื่องดื่มต้องการสร้าง engagement, ควรจัด giveaway หรือใช้ meme marketing?"
+Reasoning,Light Context,"บริษัทเทคโนโลยีต้องการเปิดตัวแอปพลิเคชันใหม่, ควรใช้ PR event หรือ online webinar?"
+Reasoning,Light Context,"ธุรกิจการศึกษาต้องการเพิ่มผู้สมัครคอร์ส, ควรใช้ content series หรือ live Q&A?"
+Reasoning,Light Context,"แบรนด์แฟชั่นกำลังพิจารณาทำ campaign buy 1 get 1 หรือ flash sale, อะไรเหมาะกว่ากัน?"
+Reasoning,Light Context,"ร้านอาหารต้องการแจ้งโปรโมชัน flash sale, ควรใช้ SMS หรือ LINE OA?"
+Reasoning,Light Context,"บริษัทอสังหาฯ ต้องการสร้าง trust กับลูกค้า, ควรใช้ UGC หรือ professional content?"
+Reasoning,Light Context,"ธุรกิจสุขภาพกำลังเลือกกลยุทธ์ referral program หรือ loyalty program, อะไรสร้าง retention ได้ดีกว่า?"
+Reasoning,Light Context,"แอปพลิเคชันใหม่ต้องการเพิ่ม user, ควรแจก free trial หรือ discount code?"
+Reasoning,Light Context,"บริษัทการเงินต้องการอธิบายบริการใหม่, ควรใช้ infographic หรือ video explainer?"
+Reasoning,Light Context,"ธุรกิจ B2B กำลังเลือกช่องทางโฆษณา, LinkedIn Ads หรือ Google Search Ads เหมาะกว่ากัน?"
+Reasoning,Light Context,"แบรนด์แฟชั่นต้องการสร้าง engagement, ควรใช้ Facebook Group หรือ LINE Community?"
+Reasoning,Light Context,"ธุรกิจอาหารต้องการสร้าง awareness, ควรใช้ real-time marketing หรือ evergreen content?"
+Reasoning,Light Context,"บริษัทอสังหาฯ ต้องการเพิ่ม lead, ควรใช้ email automation หรือ manual email blast?"
+Reasoning,Light Context,"ธุรกิจการศึกษาต้องการเพิ่ม reach, ควรใช้ podcast หรือ video content?"
+Reasoning,Light Context,"แบรนด์สุขภาพต้องการสร้าง trust, ควรใช้ testimonial หรือ how-to content?"
+Reasoning,Light Context,"ธุรกิจอสังหาฯ ต้องการเปิดตัวโครงการใหม่, ควรใช้ soft launch หรือ grand opening event?"
+Reasoning,Light Context,"ร้านอาหารต้องการสร้าง viral, ควรใช้ challenge campaign หรือ hashtag campaign?"
+Reasoning,Light Context,"บริษัทเทคโนโลยีต้องการสร้าง brand awareness, ควรใช้ PR article หรือ advertorial?"
+Reasoning,Light Context,"ธุรกิจแฟชั่นต้องการเพิ่ม conversion, ควรใช้ remarketing หรือ lookalike audience?"
+Reasoning,Light Context,"ร้านอาหารต้องการสร้าง engagement, ควรใช้ meme marketing หรือ educational content?"
+Reasoning,Light Context,"บริษัทอสังหาฯ ต้องการเพิ่ม trust, ควรใช้ influencer review หรือ product demo video?"
+Reasoning,Light Context,"ธุรกิจสุขภาพต้องการสร้าง awareness, ควรใช้ content video หรือ image post?"
+Reasoning,Light Context,"แบรนด์แฟชั่นต้องการเพิ่ม reach, ควรใช้ Instagram Stories หรือ Facebook Stories?"
+Reasoning,Light Context,"บริษัทการเงินต้องการสร้าง engagement, ควรใช้ quiz campaign หรือ poll campaign?"
+Reasoning,Light Context,"ธุรกิจอสังหาฯ ต้องการสร้าง conversion, ควรใช้ SMS หรือ email marketing?"
+Reasoning,Light Context,"ร้านอาหารต้องการเพิ่ม brand loyalty, ควรใช้ loyalty program หรือ referral program?"
+Reasoning,Full Context,"บริษัทเทคโนโลยีแห่งหนึ่งกำลังจะเปิดตัวแอปพลิเคชันใหม่สำหรับการจัดการการเงินส่วนบุคคล โดยมี target group เป็นคนวัยทำงานอายุ 25-40 ปี ปัจจุบันมีงบประมาณจำกัดและต้องการผลลัพธ์ที่วัดผลได้ชัดเจนควรเลือกใช้กลยุทธ์ influencer marketing หรือ performance marketing เพื่อให้เกิด user acquisition สูงสุด? ช่วยอธิบายเหตุผลประกอบ"
+Reasoning,Full Context,"ร้านอาหารญี่ปุ่นเปิดใหม่ในย่านออฟฟิศ ต้องการสร้าง awareness ในกลุ่มพนักงานออฟฟิศและดึงดูดลูกค้าใหม่ผ่านช่องทาง social media โดยมีคู่แข่งจำนวนมากในพื้นที่เดียวกันควรใช้กลยุทธ์ meme marketing หรือจัด flash sale campaign? เพราะอะไร?"
+Reasoning,Full Context,"แบรนด์แฟชั่นออนไลน์ต้องการเพิ่ม conversion rate ในช่วงปลายปี โดยมีสินค้าคอลเลกชันใหม่และต้องการกระตุ้นยอดขายผ่าน Instagram และ Facebookควรเลือกใช้ remarketing หรือ lookalike audience campaign เพื่อเพิ่มยอดขายมากกว่ากัน? อธิบายเหตุผล"
+Reasoning,Full Context,"บริษัทอสังหาริมทรัพย์ต้องการเปิดตัวโครงการบ้านเดี่ยวระดับพรีเมียมในเขตชานเมือง โดยกลุ่มเป้าหมายคือครอบครัววัยทำงานที่มีรายได้สูงควรเลือกจัด event offline หรือ online webinar เพื่อสร้าง lead และ awareness? และเพราะเหตุใด?"
+Reasoning,Full Context,"ธุรกิจสุขภาพมีสินค้าใหม่ที่เน้นกลุ่มผู้หญิงวัย 30+ ต้องการสร้าง trust และ awareness ผ่าน content marketingควรใช้ UGC หรือ professional content ในการสื่อสาร? อธิบายข้อดีข้อเสียของแต่ละแบบ"
+Reasoning,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สออนไลน์ใหม่สำหรับนักเรียนมัธยม โดยมีงบประมาณจำกัดและต้องการเข้าถึงกลุ่มเป้าหมายให้ได้มากที่สุดควรเลือกใช้ podcast หรือ video content เป็นช่องทางหลัก? ให้เหตุผลประกอบ"
+Reasoning,Full Context,"บริษัทเทคโนโลยีต้องการสร้าง brand awareness ให้กับ smart home product ผ่านการจัดกิจกรรมเปิดตัวควรใช้ PR event หรือ online webinar เพื่อเข้าถึง target group ได้มีประสิทธิภาพมากกว่า? อธิบายเหตุผล"
+Reasoning,Full Context,"ร้านอาหารต้องการเพิ่ม engagement ในกลุ่มลูกค้าวัยรุ่นผ่าน Instagram โดยมีแผนจะใช้ challenge campaign หรือ hashtag campaignควรเลือกแบบไหนจึงจะสร้าง viral ได้มากกว่า? อธิบายข้อดีข้อเสีย"
+Reasoning,Full Context,"แบรนด์เครื่องดื่มสุขภาพต้องการเปิดตัวผลิตภัณฑ์ใหม่ในช่วงหน้าร้อน โดยมีงบประมาณจำกัดและต้องการสร้าง awareness ในกลุ่มวัยรุ่นควรใช้ content video หรือ image post ในการสื่อสาร? ช่วยอธิบายเหตุผล"
+Reasoning,Full Context,"บริษัทอสังหาฯ ต้องการสร้าง trust กับกลุ่มลูกค้าใหม่ผ่านช่องทางออนไลน์ โดยกำลังเลือกใช้ influencer review หรือ product demo videoควรเลือกแบบไหนถึงจะเหมาะสมกับกลุ่มเป้าหมาย? และเพราะอะไร?"
+Reasoning,Full Context,"ธุรกิจแฟชั่นต้องการเพิ่ม brand loyalty ในกลุ่มลูกค้าเดิม โดยกำลังพิจารณาระหว่าง loyalty program กับ referral program ควรเลือกกลยุทธ์ไหนถึงจะสร้าง customer retention ได้ดีกว่า? อธิบายเหตุผล"
+Reasoning,Full Context,"บริษัทการเงินต้องการอธิบายบริการใหม่ให้กลุ่มเป้าหมายเข้าใจง่าย โดยมีตัวเลือก infographic หรือ video explainer ควรเลือกใช้แบบไหนถึงจะเหมาะกับ content strategy? ช่วยอธิบาย"
+Reasoning,Full Context,"ธุรกิจอสังหาฯ ต้องการเพิ่ม lead ผ่าน online channel โดยมีตัวเลือก email automation กับ manual email blast ควรเลือกใช้แบบใดถึงจะมีประสิทธิภาพมากกว่า? และเพราะอะไร?"
+Reasoning,Full Context,"ร้านอาหารต้องการแจ้งโปรโมชัน flash sale ให้กับลูกค้าเดิม โดยมีตัวเลือก SMS หรือ LINE OA ควรเลือกใช้ช่องทางใดถึงจะเหมาะสมกับกลุ่มเป้าหมาย? อธิบายเหตุผล"
+Reasoning,Full Context,"แบรนด์แฟชั่นต้องการสร้าง engagement ในกลุ่มวัยรุ่น โดยกำลังเลือกใช้ Facebook Group หรือ LINE Communityควรเลือกใช้ platform ไหนถึงจะเหมาะกับ target group? อธิบายเหตุผล"
+Reasoning,Full Context,"บริษัทเทคโนโลยีต้องการเปิดตัวแอปใหม่ในกลุ่ม Gen Z โดยมีงบประมาณจำกัดและต้องการผลลัพธ์ที่วัดผลได้ชัดเจนควรเลือกใช้ TikTok หรือ Instagram Reels สำหรับ awareness campaign? อธิบายเหตุผล"
+Reasoning,Full Context,"ธุรกิจการศึกษาต้องการเพิ่ม reach ของคอร์สออนไลน์ใหม่ โดยมีตัวเลือก podcast หรือ video contentควรเลือกใช้แบบไหนถึงจะเหมาะกับกลุ่มเป้าหมาย? ช่วยอธิบายข้อดีข้อเสีย"
+Reasoning,Full Context,"บริษัทอสังหาฯ ต้องการเปิดตัวโครงการใหม่ โดยมีตัวเลือก soft launch กับ grand opening eventควรเลือกใช้กลยุทธ์ไหนถึงจะเหมาะสมกับ market segment นี้? อธิบายเหตุผล"
+Reasoning,Full Context,"แบรนด์สุขภาพต้องการสร้าง trust กับกลุ่มเป้าหมาย โดยมีตัวเลือก testimonial กับ how-to contentควรเลือกใช้แบบไหนถึงจะเหมาะกับ content strategy? และเพราะอะไร?"
+Reasoning,Full Context,"ธุรกิจแฟชั่นต้องการเพิ่ม conversion ในช่วงปลายปี โดยกำลังเลือกใช้ remarketing หรือ lookalike audienceควรเลือกใช้แบบไหนถึงจะได้ผลลัพธ์ดีที่สุด? อธิบายเหตุผล"
+Reasoning,Full Context,"บริษัทการเงินต้องการสร้าง engagement ในกลุ่มเป้าหมาย โดยมีตัวเลือก quiz campaign กับ poll campaignควรเลือกใช้แบบไหนถึงจะเหมาะกับ content strategy? อธิบายข้อดีข้อเสีย"
+Reasoning,Full Context,"ธุรกิจอสังหาฯ ต้องการสร้าง conversion ผ่าน online channel โดยมีตัวเลือก SMS หรือ email marketingควรเลือกใช้ช่องทางใดถึงจะเหมาะกับกลุ่มเป้าหมาย? อธิบายเหตุผล"
+Reasoning,Full Context,"ร้านอาหารต้องการสร้าง brand loyalty ในกลุ่มลูกค้าเดิม โดยกำลังเลือก loyalty program กับ referral programควรเลือกกลยุทธ์ไหนถึงจะเหมาะกับ business goal? อธิบายเหตุผล"
+Reasoning,Full Context,"บริษัทอสังหาฯ ต้องการสร้าง trust กับกลุ่มลูกค้าใหม่ โดยกำลังเลือกใช้ influencer review หรือ product demo videoควรเลือกแบบไหนถึงจะเหมาะกับกลุ่มเป้าหมาย? อธิบายข้อดีข้อเสีย"
+Reasoning,Full Context,"แบรนด์แฟชั่นต้องการสร้าง awareness ในกลุ่มวัยรุ่น โดยมีตัวเลือก Instagram Stories กับ Facebook Storiesควรเลือกใช้แบบไหนถึงจะเหมาะกับกลุ่มเป้าหมาย? อธิบายเหตุผล"
+Reasoning,Full Context,"ธุรกิจสุขภาพต้องการสร้าง awareness ในกลุ่มเป้าหมาย โดยมีตัวเลือก content video กับ image postควรเลือกใช้แบบไหนถึงจะเหมาะกับ content strategy? อธิบายข้อดีข้อเสีย"
+Reasoning,Full Context,"บริษัทเทคโนโลยีต้องการสร้าง brand awareness ในกลุ่ม target group โดยมีตัวเลือก PR article กับ advertorialควรเลือกใช้แบบไหนถึงจะเหมาะกับ content strategy? อธิบายเหตุผล"
+Reasoning,Full Context,"ธุรกิจแฟชั่นต้องการเพิ่ม reach ผ่าน social media โดยมีตัวเลือก Instagram Stories กับ Facebook Storiesควรเลือกใช้ platform ไหนถึงจะเหมาะกับ target group? อธิบายข้อดีข้อเสีย"
+Trending,Without Context,เทรนด์ social media อะไรที่กำลังมาแรงในปีนี้?
+Trending,Without Context,ช่วงนี้มี hashtag ไหนที่เหมาะกับ awareness campaign ของแบรนด์แฟชั่น?
+Trending,Without Context,เทรนด์ influencer marketing แบบไหนกำลังได้รับความนิยมในไทย?
+Trending,Without Context,content format ไหน viral ที่สุดบน TikTok ช่วงนี้?
+Trending,Without Context,ช่วงนี้ Facebook algorithm มีการเปลี่ยนแปลงอะไรที่นักการตลาดควรรู้?
+Trending,Without Context,เทรนด์ meme marketing ล่าสุดในกลุ่มวัยรุ่นคืออะไร?
+Trending,Without Context,เทรนด์การใช้ short video ในการโปรโมทสินค้าเป็นอย่างไร?
+Trending,Without Context,ช่วงนี้มี challenge อะไรใน Instagram ที่เหมาะกับธุรกิจอาหาร?
+Trending,Without Context,เทรนด์ email marketing ปีนี้ควรเน้น personalization แบบไหน?
+Trending,Without Context,content format ไหนที่เหมาะกับ awareness campaign ในกลุ่ม tech startup?
+Trending,Without Context,เทรนด์การใช้ UGC ในธุรกิจสุขภาพเป็นอย่างไร?
+Trending,Without Context,ช่วงนี้ TikTok มี hashtag ไหนที่เหมาะกับ fashion brand?
+Trending,Without Context,เทรนด์การจัด webinar สำหรับธุรกิจการศึกษาเป็นอย่างไร?
+Trending,Without Context,content แบบไหนใน LINE OA กำลังได้รับ engagement สูง?
+Trending,Without Context,เทรนด์การใช้ AR filter ใน Instagram สำหรับ branding campaign?
+Trending,Without Context,เทรนด์การทำ podcast สำหรับธุรกิจการเงินปีนี้เป็นอย่างไร?
+Trending,Without Context,ช่วงนี้มี viral content รูปแบบไหนในวงการอสังหาริมทรัพย์?
+Trending,Without Context,เทรนด์การใช้ micro influencer ในธุรกิจอาหารเป็นอย่างไร?
+Trending,Without Context,เทรนด์การใช้ story format ใน Facebook กับ Instagram ต่างกันอย่างไร?
+Trending,Without Context,content format ไหนที่เหมาะกับ awareness campaign ในธุรกิจสุขภาพ?
+Trending,Without Context,เทรนด์การใช้ live streaming ในการเปิดตัวผลิตภัณฑ์ใหม่เป็นอย่างไร?
+Trending,Without Context,เทรนด์การใช้ SMS marketing ในธุรกิจแฟชั่นปีนี้เป็นอย่างไร?
+Trending,Without Context,ช่วงนี้มี meme ไหน viral ในกลุ่มวัยรุ่น?
+Trending,Without Context,เทรนด์ content แบบ interactive ในธุรกิจการศึกษาเป็นอย่างไร?
+Trending,Without Context,เทรนด์การใช้ chatbot บน LINE OA สำหรับธุรกิจอาหาร?
+Trending,Without Context,content format ไหนใน TikTok เหมาะกับ awareness campaign ของแบรนด์สุขภาพ?
+Trending,Without Context,เทรนด์การใช้ email automation ในธุรกิจอสังหาฯ ปีนี้?
+Trending,Without Context,เทรนด์การใช้ PR event สำหรับเปิดตัวสินค้า tech ใหม่?
+Trending,Without Context,content format ไหนใน Instagram ที่เหมาะกับ engagement campaign ของ fashion brand?
+Trending,Without Context,เทรนด์การใช้ quiz campaign ในธุรกิจการเงินเป็นอย่างไร?
+Trending,Light Context,"ธุรกิจแฟชั่นกำลังมองหาเทรนด์ใหม่ใน social media เพื่อสร้าง engagement, ช่วยแนะนำเทรนด์ที่กำลังมาแรง"
+Trending,Light Context,"บริษัทอสังหาฯ ต้องการใช้เทรนด์ viral content ในการโปรโมทโครงการใหม่, มีเทรนด์ไหนแนะนำบ้าง?"
+Trending,Light Context,"ร้านอาหารต้องการใช้ hashtag campaign ที่กำลังฮิตใน Instagram, มี hashtag ไหนเหมาะกับ awareness campaign?"
+Trending,Light Context,"ธุรกิจสุขภาพต้องการใช้ UGC trend ในการสร้าง trust, เทรนด์ไหนกำลังมาแรง?"
+Trending,Light Context,"บริษัทเทคโนโลยีต้องการเปิดตัวสินค้าใหม่, เทรนด์การใช้ live streaming ในการเปิดตัวเป็นอย่างไร?"
+Trending,Light Context,"ธุรกิจการศึกษาต้องการใช้ interactive content, เทรนด์ content แบบไหนกำลังได้รับความนิยม?"
+Trending,Light Context,"แบรนด์เครื่องดื่มต้องการใช้ meme marketing, มี meme ไหนในกลุ่มวัยรุ่นที่กำลัง viral?"
+Trending,Light Context,"บริษัทการเงินต้องการใช้ podcast trend ในการสื่อสารกับลูกค้า, เทรนด์ podcast ปีนี้เป็นอย่างไร?"
+Trending,Light Context,"ธุรกิจแฟชั่นต้องการใช้ AR filter ใน Instagram, เทรนด์นี้เหมาะกับ branding campaign อย่างไร?"
+Trending,Light Context,"ร้านอาหารต้องการใช้ chatbot บน LINE OA, เทรนด์การใช้ chatbot ปีนี้เป็นอย่างไร?"
+Trending,Light Context,"บริษัทอสังหาฯ ต้องการใช้ email automation, เทรนด์การใช้ email marketing ในปีนี้เป็นอย่างไร?"
+Trending,Light Context,"ธุรกิจสุขภาพต้องการใช้ story format ใน Facebook กับ Instagram, เทรนด์นี้เหมาะกับ awareness campaign อย่างไร?"
+Trending,Light Context,"บริษัทเทคโนโลยีต้องการใช้ PR event, เทรนด์การจัด event สำหรับสินค้า tech ใหม่เป็นอย่างไร?"
+Trending,Light Context,"ธุรกิจการศึกษาต้องการใช้ quiz campaign, เทรนด์นี้เหมาะกับ engagement campaign อย่างไร?"
+Trending,Light Context,"แบรนด์แฟชั่นต้องการใช้ short video content, เทรนด์ video format ไหนกำลังมาแรงใน social media?"
+Trending,Light Context,"ร้านอาหารต้องการใช้ influencer marketing, เทรนด์การใช้ micro influencer ปีนี้เป็นอย่างไร?"
+Trending,Light Context,"บริษัทการเงินต้องการใช้ email automation, เทรนด์การใช้ automation tool ใน marketing เป็นอย่างไร?"
+Trending,Light Context,"ธุรกิจอสังหาฯ ต้องการใช้ webinar, เทรนด์การจัด webinar ในปีนี้เป็นอย่างไร?"
+Trending,Light Context,"ธุรกิจสุขภาพต้องการใช้ interactive content, เทรนด์ content แบบไหนเหมาะกับ engagement?"
+Trending,Light Context,"บริษัทเทคโนโลยีต้องการใช้ meme marketing, เทรนด์ meme ไหนเหมาะกับ awareness campaign?"
+Trending,Light Context,"แบรนด์แฟชั่นต้องการใช้ quiz campaign, เทรนด์ quiz format ไหนกำลังได้รับความนิยม?"
+Trending,Light Context,"ร้านอาหารต้องการใช้ live streaming, เทรนด์การใช้ live ในการขายอาหารเป็นอย่างไร?"
+Trending,Light Context,"บริษัทอสังหาฯ ต้องการใช้ UGC, เทรนด์ UGC ในธุรกิจอสังหาฯ เป็นอย่างไร?"
+Trending,Light Context,"ธุรกิจการศึกษาต้องการใช้ podcast, เทรนด์ podcast format ไหนเหมาะกับ awareness campaign?"
+Trending,Light Context,"ธุรกิจสุขภาพต้องการใช้ hashtag campaign, เทรนด์ hashtag ไหนกำลัง viral ในกลุ่มสุขภาพ?"
+Trending,Light Context,"บริษัทเทคโนโลยีต้องการใช้ AR filter, เทรนด์ AR filter ใน Instagram เป็นอย่างไร?"
+Trending,Light Context,"แบรนด์แฟชั่นต้องการใช้ story format, เทรนด์ story format ไหนเหมาะกับ engagement?"
+Trending,Light Context,"ร้านอาหารต้องการใช้ SMS marketing, เทรนด์ SMS campaign ในธุรกิจอาหารเป็นอย่างไร?"
+Trending,Light Context,"บริษัทการเงินต้องการใช้ interactive content, เทรนด์ content แบบไหนเหมาะกับ engagement campaign?"
+Trending,Light Context,"ธุรกิจอสังหาฯ ต้องการใช้ PR event, เทรนด์การจัด PR event ในปีนี้เป็นอย่างไร?"
+Trending,Full Context,"บริษัทแฟชั่นออนไลน์ต้องการเพิ่ม engagement ในกลุ่มวัยรุ่น โดยใช้ช่องทาง Instagram และ TikTok เป็นหลัก
+ช่วงนี้มีเทรนด์ challenge หรือ hashtag อะไรที่เหมาะกับ awareness campaign ของ fashion brand? ช่วยแนะนำและอธิบายวิธีนำไปใช้"
+Trending,Full Context,"ร้านอาหารเปิดใหม่ในย่าน CBD ต้องการสร้าง viral content ผ่าน social media เพื่อดึงดูดกลุ่ม office worker
+เทรนด์ meme หรือ challenge ไหนที่เหมาะกับธุรกิจอาหารในช่วงนี้? และนำไปปรับใช้กับ campaign ได้อย่างไร?"
+Trending,Full Context,"บริษัทอสังหาฯ ต้องการสร้าง awareness ให้กับโครงการใหม่ในกลุ่มคนวัยทำงาน โดยใช้ Facebook และ LINE OA เป็นช่องทางหลัก
+เทรนด์ content format หรือ hashtag ไหนกำลังได้รับความนิยมในกลุ่มนี้? และควรนำไปใช้ใน campaign อย่างไร?"
+Trending,Full Context,"ธุรกิจสุขภาพมีสินค้าใหม่สำหรับกลุ่มคนรักสุขภาพ ต้องการสร้าง engagement ผ่าน UGC และ story format
+เทรนด์การใช้ UGC หรือ story format ในกลุ่มสุขภาพเป็นอย่างไร? มีตัวอย่างที่เหมาะกับ awareness campaign หรือไม่?"
+Trending,Full Context,"บริษัทเทคโนโลยีต้องการเปิดตัว gadget ใหม่ โดยใช้ live streaming และ influencer marketing เป็นกลยุทธ์หลัก
+เทรนด์การใช้ live streaming กับ influencer marketing ในการเปิดตัวสินค้า tech เป็นอย่างไร? และเหมาะกับกลุ่มเป้าหมายหรือไม่?"
+Trending,Full Context,"ธุรกิจการศึกษาต้องการเพิ่ม engagement กับนักเรียนมัธยม โดยใช้ interactive content และ quiz campaign
+เทรนด์ content แบบ interactive หรือ quiz campaign ในกลุ่มการศึกษาเป็นอย่างไร? และนำไปปรับใช้กับ campaign ได้อย่างไร?"
+Trending,Full Context,"แบรนด์เครื่องดื่มต้องการสร้าง awareness ในกลุ่มวัยรุ่น โดยใช้ meme marketing และ AR filter ใน Instagram
+เทรนด์ meme หรือ AR filter ไหนเหมาะกับ branding campaign ในช่วงนี้? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"บริษัทการเงินต้องการสร้าง trust กับกลุ่มเป้าหมาย โดยใช้ podcast และ infographic content
+เทรนด์ podcast หรือ infographic format ไหนเหมาะกับ awareness campaign ในธุรกิจการเงิน? และเพราะอะไร?"
+Trending,Full Context,"ธุรกิจอสังหาฯ ต้องการเพิ่ม lead ผ่าน email automation และ webinar content
+เทรนด์การใช้ email automation กับ webinar ในธุรกิจอสังหาฯ ปีนี้เป็นอย่างไร? และควรนำไปใช้กับ campaign อย่างไร?"
+Trending,Full Context,"ธุรกิจสุขภาพต้องการสร้าง engagement ในกลุ่มเป้าหมาย โดยใช้ hashtag campaign และ short video content
+เทรนด์ hashtag หรือ video format ไหนเหมาะกับ awareness campaign ในกลุ่มสุขภาพ? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"บริษัทเทคโนโลยีต้องการสร้าง awareness ในกลุ่ม Gen Z โดยใช้ TikTok และ Instagram Reels
+เทรนด์ content format หรือ challenge ไหนเหมาะกับ awareness campaign ในกลุ่มนี้? อธิบายข้อดีข้อเสีย"
+Trending,Full Context,"แบรนด์แฟชั่นต้องการเพิ่ม reach ผ่าน Instagram Stories และ Facebook Stories
+เทรนด์ story format ไหนเหมาะกับ engagement campaign ของ fashion brand? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"ร้านอาหารต้องการใช้ SMS marketing และ LINE OA ในการแจ้งโปรโมชัน
+เทรนด์การใช้ SMS กับ LINE OA ในธุรกิจอาหารปีนี้เป็นอย่างไร? และควรนำไปใช้กับ campaign อย่างไร?"
+Trending,Full Context,"บริษัทการเงินต้องการใช้ quiz campaign และ poll campaign ในการสร้าง engagement
+เทรนด์ quiz หรือ poll format ไหนเหมาะกับ awareness campaign ในกลุ่มการเงิน? อธิบายข้อดีข้อเสีย"
+Trending,Full Context,"ธุรกิจอสังหาฯ ต้องการใช้ UGC และ influencer marketing ในการสร้าง trust
+เทรนด์การใช้ UGC หรือ influencer marketing ในธุรกิจอสังหาฯ ปีนี้เป็นอย่างไร? และนำไปใช้กับ campaign ได้อย่างไร?"
+Trending,Full Context,"ธุรกิจสุขภาพต้องการใช้ story format และ meme marketing ในการสร้าง engagement
+เทรนด์ story format หรือ meme marketing ไหนเหมาะกับ awareness campaign ของแบรนด์สุขภาพ? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"บริษัทเทคโนโลยีต้องการใช้ AR filter และ live streaming ในการเปิดตัวสินค้าใหม่
+เทรนด์ AR filter หรือ live streaming ไหนเหมาะกับ branding campaign ในกลุ่ม tech? อธิบายข้อดีข้อเสีย"
+Trending,Full Context,"แบรนด์แฟชั่นต้องการใช้ short video content และ UGC ในการสร้าง engagement
+เทรนด์ short video หรือ UGC format ไหนเหมาะกับ engagement campaign ของ fashion brand? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"ร้านอาหารต้องการใช้ influencer marketing และ challenge campaign ในการสร้าง viral content
+เทรนด์ influencer หรือ challenge format ไหนเหมาะกับ awareness campaign ของร้านอาหาร? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"บริษัทการเงินต้องการใช้ infographic และ podcast ในการสื่อสารกับลูกค้า
+เทรนด์ infographic หรือ podcast format ไหนเหมาะกับ awareness campaign ในกลุ่มการเงิน? อธิบายข้อดีข้อเสีย"
+Trending,Full Context,"ธุรกิจอสังหาฯ ต้องการใช้ PR event และ webinar ในการเปิดตัวโครงการใหม่
+เทรนด์ PR event หรือ webinar format ไหนเหมาะกับ branding campaign ในอสังหาฯ? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"ธุรกิจสุขภาพต้องการใช้ hashtag campaign และ live streaming ในการสร้าง engagement
+เทรนด์ hashtag หรือ live format ไหนเหมาะกับ engagement campaign ของแบรนด์สุขภาพ? อธิบายข้อดีข้อเสีย"
+Trending,Full Context,"บริษัทเทคโนโลยีต้องการใช้ meme marketing และ AR filter ในการสร้าง awareness
+เทรนด์ meme หรือ AR filter ไหนเหมาะกับ awareness campaign ในกลุ่ม tech? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"แบรนด์แฟชั่นต้องการใช้ influencer marketing และ short video content ในการสร้าง engagement
+เทรนด์ influencer หรือ short video format ไหนเหมาะกับ engagement campaign ของ fashion brand? อธิบายข้อดีข้อเสีย"
+Trending,Full Context,"ร้านอาหารต้องการใช้ UGC และ meme marketing ในการสร้าง viral content
+เทรนด์ UGC หรือ meme format ไหนเหมาะกับ awareness campaign ของร้านอาหาร? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"บริษัทการเงินต้องการใช้ quiz campaign และ infographic ในการสร้าง engagement
+เทรนด์ quiz หรือ infographic format ไหนเหมาะกับ engagement campaign ของการเงิน? อธิบายข้อดีข้อเสีย"
+Trending,Full Context,"ธุรกิจอสังหาฯ ต้องการใช้ email automation และ PR event ในการสร้าง awareness
+เทรนด์ email automation หรือ PR event format ไหนเหมาะกับ awareness campaign ในอสังหาฯ? อธิบายวิธีนำไปใช้"
+Trending,Full Context,"ธุรกิจสุขภาพต้องการใช้ story format และ influencer marketing ในการสร้าง engagement
+เทรนด์ story format หรือ influencer marketing ไหนเหมาะกับ engagement campaign ของแบรนด์สุขภาพ? อธิบายข้อดีข้อเสีย"
+Caption Generation,Without Context,ช่วยคิด caption น่ารักๆ สำหรับโพสต์โปรโมท summer drink
+Caption Generation,Without Context,เขียน caption ขายเสื้อผ้าแฟชั่นแนว street style
+Caption Generation,Without Context,คิด caption สำหรับโปรโมชั่น flash sale ร้านอาหาร
+Caption Generation,Without Context,สร้าง caption สำหรับ awareness campaign ธุรกิจสุขภาพ
+Caption Generation,Without Context,ช่วยคิด caption ขายบ้านใหม่ในโครงการหรู
+Caption Generation,Without Context,เขียน caption สำหรับเปิดตัวแอปพลิเคชันการเงิน
+Caption Generation,Without Context,คิด caption โปรโมทคอร์สเรียนออนไลน์
+Caption Generation,Without Context,ช่วยเขียน caption สำหรับโพสต์เมนูใหม่ร้านอาหารญี่ปุ่น
+Caption Generation,Without Context,คิด caption สำหรับโพสต์เปิดตัวสินค้า tech gadget
+Caption Generation,Without Context,ช่วยคิด caption สำหรับ awareness campaign ของร้านอาหาร
+Caption Generation,Without Context,เขียน caption สำหรับโปรโมชั่น buy 1 get 1 เสื้อผ้าแฟชั่น
+Caption Generation,Without Context,ช่วยคิด caption สำหรับโพสต์เปิดตัวคอนโดใหม่
+Caption Generation,Without Context,คิด caption สำหรับโปรโมทสินค้าเครื่องดื่มสุขภาพ
+Caption Generation,Without Context,เขียน caption สำหรับโพสต์ขายบ้านมือสอง
+Caption Generation,Without Context,ช่วยคิด caption สำหรับโพสต์เปิดตัวคอร์สเรียนภาษาอังกฤษ
+Caption Generation,Without Context,คิด caption สำหรับโปรโมทแพ็กเกจท่องเที่ยว
+Caption Generation,Without Context,ช่วยคิด caption สำหรับโพสต์เปิดตัวแอปใหม่
+Caption Generation,Without Context,เขียน caption สำหรับโปรโมชั่น flash sale ร้านอาหารญี่ปุ่น
+Caption Generation,Without Context,ช่วยคิด caption สำหรับโพสต์ขายสินค้าแฟชั่นผู้หญิง
+Caption Generation,Without Context,คิด caption สำหรับ awareness campaign ธุรกิจอสังหาริมทรัพย์
+Caption Generation,Without Context,เขียน caption สำหรับโพสต์เปิดตัวสินค้าเทคโนโลยีใหม่
+Caption Generation,Without Context,ช่วยคิด caption สำหรับโพสต์ขายอาหารสุขภาพ
+Caption Generation,Without Context,คิด caption สำหรับโปรโมชั่น discount code ธุรกิจแฟชั่น
+Caption Generation,Without Context,เขียน caption สำหรับโพสต์โปรโมทบริการการเงิน
+Caption Generation,Without Context,ช่วยคิด caption สำหรับโพสต์เปิดตัวคอนโดใหม่ในเมือง
+Caption Generation,Without Context,คิด caption สำหรับ awareness campaign ของแอปพลิเคชันใหม่
+Caption Generation,Without Context,เขียน caption สำหรับโปรโมทร้านอาหารเปิดใหม่
+Caption Generation,Without Context,ช่วยคิด caption สำหรับโพสต์ขายสินค้าแฟชั่นผู้ชาย
+Caption Generation,Without Context,คิด caption สำหรับ awareness campaign ของธุรกิจการศึกษา
+Caption Generation,Without Context,เขียน caption สำหรับโพสต์โปรโมทบ้านเดี่ยว
+Caption Generation,Light Context,"ธุรกิจแฟชั่นต้องการ caption ที่โดนใจกลุ่มวัยรุ่นสำหรับโปรโมท collection ใหม่, ช่วยคิดให้หน่อย"
+Caption Generation,Light Context,"ร้านอาหารเปิดใหม่อยากได้ caption สำหรับโพสต์เมนู signature, ช่วยคิด caption ที่น่าสนใจ"
+Caption Generation,Light Context,"บริษัทอสังหาฯ ต้องการ caption สำหรับเปิดตัวโครงการคอนโดใหม่, ช่วยเขียน caption ที่กระตุ้นความสนใจ"
+Caption Generation,Light Context,"ธุรกิจสุขภาพต้องการ caption สำหรับ awareness campaign, ช่วยคิด caption ที่สร้างแรงบันดาลใจ"
+Caption Generation,Light Context,"บริษัทเทคโนโลยีต้องการ caption สำหรับโพสต์เปิดตัว gadget ใหม่, ช่วยคิด caption ที่สื่อความล้ำสมัย"
+Caption Generation,Light Context,"ร้านอาหารญี่ปุ่นต้องการ caption สำหรับโปรโมชั่น lunch set, ช่วยคิด caption ที่ดึงดูดลูกค้า"
+Caption Generation,Light Context,"ธุรกิจการศึกษาต้องการ caption สำหรับโปรโมทคอร์สเรียนออนไลน์, ช่วยคิด caption ที่กระตุ้นให้สมัคร"
+Caption Generation,Light Context,"แบรนด์เครื่องดื่มสุขภาพต้องการ caption สำหรับโพสต์สินค้าใหม่, ช่วยคิด caption ที่เน้นสุขภาพ"
+Caption Generation,Light Context,"บริษัทอสังหาฯ ต้องการ caption สำหรับโปรโมทบ้านเดี่ยว, ช่วยคิด caption ที่เน้นความเป็นส่วนตัว"
+Caption Generation,Light Context,"ร้านอาหารต้องการ caption สำหรับโพสต์เมนูใหม่, ช่วยคิด caption ที่กระตุ้นความอยากอาหาร"
+Caption Generation,Light Context,"ธุรกิจแฟชั่นต้องการ caption สำหรับ flash sale, ช่วยคิด caption ที่เร่งการตัดสินใจ"
+Caption Generation,Light Context,"บริษัทเทคโนโลยีต้องการ caption สำหรับ awareness campaign, ช่วยคิด caption ที่สื่อถึงนวัตกรรม"
+Caption Generation,Light Context,"ร้านอาหารต้องการ caption สำหรับโพสต์โปรโมชัน buy 1 get 1, ช่วยคิด caption ที่ดึงดูดใจ"
+Caption Generation,Light Context,"ธุรกิจการศึกษาต้องการ caption สำหรับ awareness campaign, ช่วยคิด caption ที่กระตุ้นให้เรียนรู้"
+Caption Generation,Light Context,"แบรนด์แฟชั่นต้องการ caption สำหรับโพสต์เปิดตัวสินค้าใหม่, ช่วยคิด caption ที่โดนใจกลุ่มเป้าหมาย"
+Caption Generation,Light Context,"บริษัทอสังหาฯ ต้องการ caption สำหรับโพสต์ขายบ้านมือสอง, ช่วยคิด caption ที่สร้างความมั่นใจ"
+Caption Generation,Light Context,"ร้านอาหารญี่ปุ่นต้องการ caption สำหรับโพสต์เมนูพิเศษ, ช่วยคิด caption ที่น่าสนใจ"
+Caption Generation,Light Context,"ธุรกิจสุขภาพต้องการ caption สำหรับโพสต์โปรโมทสินค้า, ช่วยคิด caption ที่สร้างแรงบันดาลใจ"
+Caption Generation,Light Context,"บริษัทเทคโนโลยีต้องการ caption สำหรับโพสต์เปิดตัวแอปใหม่, ช่วยคิด caption ที่สื่อถึงความสะดวก"
+Caption Generation,Light Context,"ร้านอาหารต้องการ caption สำหรับ awareness campaign, ช่วยคิด caption ที่สร้างความจดจำ"
+Caption Generation,Light Context,"ธุรกิจแฟชั่นต้องการ caption สำหรับโปรโมทสินค้าแฟชั่นผู้หญิง, ช่วยคิด caption ที่โดนใจ"
+Caption Generation,Light Context,"บริษัทอสังหาฯ ต้องการ caption สำหรับโพสต์เปิดตัวคอนโดใหม่, ช่วยคิด caption ที่เน้นความทันสมัย"
+Caption Generation,Light Context,"ร้านอาหารต้องการ caption สำหรับโพสต์โปรโมชัน discount code, ช่วยคิด caption ที่เร่งการตัดสินใจ"
+Caption Generation,Light Context,"ธุรกิจการศึกษาต้องการ caption สำหรับโพสต์โปรโมทคอร์สเรียนภาษาอังกฤษ, ช่วยคิด caption ที่กระตุ้นให้สมัคร"
+Caption Generation,Light Context,"แบรนด์เครื่องดื่มสุขภาพต้องการ caption สำหรับโพสต์สินค้าใหม่, ช่วยคิด caption ที่เน้นสุขภาพ"
+Caption Generation,Light Context,"บริษัทอสังหาฯ ต้องการ caption สำหรับโปรโมทบ้านเดี่ยว, ช่วยคิด caption ที่เน้นความเป็นส่วนตัว"
+Caption Generation,Light Context,"ร้านอาหารต้องการ caption สำหรับโพสต์เมนูใหม่, ช่วยคิด caption ที่กระตุ้นความอยากอาหาร"
+Caption Generation,Light Context,"ธุรกิจแฟชั่นต้องการ caption สำหรับ flash sale, ช่วยคิด caption ที่เร่งการตัดสินใจ"
+Caption Generation,Light Context,"บริษัทเทคโนโลยีต้องการ caption สำหรับ awareness campaign, ช่วยคิด caption ที่สื่อถึงนวัตกรรม"
+Caption Generation,Light Context,"ร้านอาหารต้องการ caption สำหรับโพสต์โปรโมชัน buy 1 get 1, ช่วยคิด caption ที่ดึงดูดใจ"
+Caption Generation,Full Context,"แบรนด์แฟชั่นกำลังจะเปิดตัว collection ใหม่สำหรับกลุ่มวัยรุ่น โดยเน้นความสนุกสนานและเทรนด์แฟชั่นล่าสุด
+ต้องการ caption สำหรับโพสต์ Instagram ที่สั้น กระชับ และกระตุ้นให้เกิด engagement
+ช่วยคิด caption ที่เหมาะกับ awareness campaign นี้"
+Caption Generation,Full Context,"ร้านอาหารญี่ปุ่นเปิดใหม่ในย่าน office ต้องการโปรโมทเมนู lunch set ด้วยโทนสนุกสนาน
+ต้องการ caption สำหรับโพสต์ Facebook ที่กระตุ้นให้ลูกค้าลองเมนูใหม่
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"บริษัทอสังหาฯ เปิดตัวโครงการคอนโดใหม่ในเมือง เน้นความทันสมัยและทำเลใกล้รถไฟฟ้า
+ต้องการ caption สำหรับโพสต์เปิดตัวบน Facebook และ Instagram ที่กระชับและสร้างความสนใจ
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"ธุรกิจสุขภาพเปิดตัวสินค้าใหม่สำหรับกลุ่มคนรักสุขภาพ ต้องการสร้างแรงบันดาลใจและ awareness
+ต้องการ caption สำหรับโพสต์ Instagram ที่เน้นสุขภาพและความสดใส
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"บริษัทเทคโนโลยีเปิดตัว gadget ใหม่ที่เน้นนวัตกรรมและดีไซน์ทันสมัย
+ต้องการ caption สำหรับโพสต์เปิดตัวบน social media ที่สื่อถึงความล้ำสมัย
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่ด้วยโปรโมชัน buy 1 get 1 โดยเน้นโทนสนุกสนาน
+ต้องการ caption สำหรับโพสต์ Facebook และ Instagram ที่กระตุ้นให้ลูกค้าแวะมาลอง
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนภาษาอังกฤษออนไลน์สำหรับวัยทำงาน
+ต้องการ caption สำหรับโพสต์ Facebook ที่กระตุ้นให้สมัครเรียน
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"แบรนด์เครื่องดื่มสุขภาพเปิดตัวสินค้าใหม่สำหรับกลุ่มคนรักสุขภาพ
+ต้องการ caption สำหรับโพสต์ Instagram ที่เน้นสุขภาพและความสดชื่น
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยวในโครงการใหม่ โดยเน้นความเป็นส่วนตัวและบรรยากาศอบอุ่น
+ต้องการ caption สำหรับโพสต์ Facebook ที่สร้างความรู้สึกอบอุ่นใจ
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มวัยรุ่น โดยใช้โทนสนุกสนาน
+ต้องการ caption สำหรับโพสต์ Instagram ที่กระตุ้นให้ลูกค้าอยากลอง
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมท flash sale สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Facebook ที่กระตุ้นให้รีบตัดสินใจ
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"บริษัทเทคโนโลยีเปิดตัวแอปใหม่สำหรับการจัดการการเงินส่วนบุคคล
+ต้องการ caption สำหรับโพสต์เปิดตัวบน social media ที่สื่อถึงความสะดวกและทันสมัย
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"ร้านอาหารญี่ปุ่นต้องการโปรโมทเมนูพิเศษสำหรับช่วงเทศกาล
+ต้องการ caption สำหรับโพสต์ Facebook ที่สร้างบรรยากาศพิเศษ
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ธุรกิจสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการ caption สำหรับโพสต์ Instagram ที่เน้นสุขภาพและแรงบันดาลใจ
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านมือสองในโครงการใหม่
+ต้องการ caption สำหรับโพสต์ Facebook ที่สร้างความมั่นใจให้กับลูกค้า
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Instagram ที่กระตุ้นให้ลูกค้าอยากลอง
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Facebook ที่โดนใจกลุ่มเป้าหมาย
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการ caption สำหรับโพสต์เปิดตัวบน social media ที่สื่อถึงความสะดวก
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Instagram ที่กระตุ้นให้ลูกค้าอยากลอง
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการ caption สำหรับโพสต์ Facebook ที่กระตุ้นให้สมัครเรียน
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Instagram ที่เน้นสุขภาพและความสดชื่น
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยวในโครงการใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการ caption สำหรับโพสต์ Facebook ที่สร้างความรู้สึกอบอุ่นใจ
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Instagram ที่กระตุ้นให้ลูกค้าอยากลอง
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Facebook ที่โดนใจกลุ่มเป้าหมาย
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการ caption สำหรับโพสต์เปิดตัวบน social media ที่สื่อถึงความสะดวก
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการ caption สำหรับโพสต์ Instagram ที่กระตุ้นให้ลูกค้าอยากลอง
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+Caption Generation,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการ caption สำหรับโพสต์ Facebook ที่กระตุ้นให้สมัครเรียน
+ช่วยคิด caption ที่เหมาะกับ awareness campaign"
+Caption Generation,Full Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่นต้องการ caption สำหรับโพสต์ Instagram ที่เน้นสุขภาพและความสดชื่น
+ช่วยคิด caption ที่เหมาะกับ campaign นี้"
+General,Without Context,ขอไอเดีย marketing สำหรับธุรกิจแฟชั่น
+General,Without Context,ขอไอเดีย campaign โปรโมทร้านอาหาร
+General,Without Context,ขอไอเดีย awareness campaign สำหรับธุรกิจสุขภาพ
+General,Without Context,ขอไอเดียโปรโมทคอร์สเรียนออนไลน์
+General,Without Context,ขอไอเดีย content marketing สำหรับธุรกิจอสังหาฯ
+General,Without Context,ขอไอเดีย engagement campaign สำหรับแบรนด์เครื่องดื่ม
+General,Without Context,ขอไอเดีย campaign โปรโมทแอปพลิเคชันใหม่
+General,Without Context,ขอไอเดีย content สำหรับ awareness campaign ของร้านอาหาร
+General,Without Context,ขอไอเดีย campaign โปรโมทสินค้าเทคโนโลยี
+General,Without Context,ขอไอเดีย marketing สำหรับธุรกิจการเงิน
+General,Without Context,ขอไอเดีย campaign โปรโมทบ้านเดี่ยว
+General,Without Context,ขอไอเดีย awareness campaign สำหรับแบรนด์แฟชั่น
+General,Without Context,ขอไอเดียโปรโมทบริการการเงิน
+General,Without Context,ขอไอเดีย content marketing สำหรับธุรกิจการศึกษา
+General,Without Context,ขอไอเดีย engagement campaign สำหรับร้านอาหาร
+General,Without Context,ขอไอเดีย campaign โปรโมทสินค้าใหม่
+General,Without Context,ขอไอเดีย marketing สำหรับธุรกิจสุขภาพ
+General,Without Context,ขอไอเดีย campaign โปรโมทคอนโดใหม่
+General,Without Context,ขอไอเดีย awareness campaign สำหรับแอปพลิเคชันใหม่
+General,Without Context,ขอไอเดียโปรโมทร้านอาหารเปิดใหม่
+General,Without Context,ขอไอเดีย marketing สำหรับธุรกิจอสังหาฯ
+General,Without Context,ขอไอเดีย campaign โปรโมทสินค้าแฟชั่นผู้หญิง
+General,Without Context,ขอไอเดีย engagement campaign สำหรับธุรกิจสุขภาพ
+General,Without Context,ขอไอเดีย campaign โปรโมทบ้านมือสอง
+General,Without Context,ขอไอเดีย awareness campaign สำหรับธุรกิจการศึกษา
+General,Without Context,ขอไอเดียโปรโมทบ้านเดี่ยวในโครงการใหม่
+General,Without Context,ขอไอเดีย content marketing สำหรับธุรกิจแฟชั่น
+General,Without Context,ขอไอเดีย engagement campaign สำหรับแบรนด์แฟชั่น
+General,Without Context,ขอไอเดีย campaign โปรโมทสินค้าเทคโนโลยีใหม่
+General,Without Context,ขอไอเดีย marketing สำหรับธุรกิจอาหาร
+General,Light Context,"ธุรกิจแฟชั่นกำลังจะเปิดตัว collection ใหม่, ขอไอเดีย marketing campaign ที่เหมาะกับกลุ่มวัยรุ่น"
+General,Light Context,"ร้านอาหารเปิดใหม่อยากสร้าง awareness, ขอไอเดีย campaign ที่เหมาะกับกลุ่ม office worker"
+General,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทคอนโดใหม่, ขอไอเดีย awareness campaign ที่ดึงดูดกลุ่มวัยทำงาน"
+General,Light Context,"ธุรกิจสุขภาพมีสินค้าใหม่, ขอไอเดีย marketing campaign ที่เน้นความน่าเชื่อถือ"
+General,Light Context,"บริษัทเทคโนโลยีต้องการเปิดตัว gadget ใหม่, ขอไอเดีย awareness campaign ที่เน้นนวัตกรรม"
+General,Light Context,"ร้านอาหารญี่ปุ่นต้องการโปรโมทเมนูใหม่, ขอไอเดีย content marketing ที่เหมาะกับกลุ่มวัยรุ่น"
+General,Light Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์, ขอไอเดีย campaign ที่กระตุ้นให้สมัคร"
+General,Light Context,"แบรนด์เครื่องดื่มสุขภาพต้องการ awareness campaign, ขอไอเดีย content ที่เน้นสุขภาพ"
+General,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยว, ขอไอเดีย marketing campaign ที่เน้นความเป็นส่วนตัว"
+General,Light Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่, ขอไอเดีย awareness campaign ที่กระตุ้นความอยากอาหาร"
+General,Light Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่, ขอไอเดีย engagement campaign ที่โดนใจกลุ่มวัยรุ่น"
+General,Light Context,"บริษัทเทคโนโลยีต้องการ awareness campaign, ขอไอเดีย content ที่สื่อถึงนวัตกรรม"
+General,Light Context,"ร้านอาหารต้องการโปรโมทโปรโมชัน buy 1 get 1, ขอไอเดีย campaign ที่ดึงดูดลูกค้า"
+General,Light Context,"ธุรกิจการศึกษาต้องการ awareness campaign, ขอไอเดีย content ที่สร้างแรงบันดาลใจ"
+General,Light Context,"แบรนด์แฟชั่นต้องการโปรโมทสินค้าใหม่, ขอไอเดีย campaign ที่สร้าง engagement"
+General,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านมือสอง, ขอไอเดีย marketing campaign ที่สร้างความมั่นใจ"
+General,Light Context,"ร้านอาหารญี่ปุ่นต้องการโปรโมทเมนูพิเศษ, ขอไอเดีย campaign ที่น่าสนใจ"
+General,Light Context,"ธุรกิจสุขภาพต้องการ awareness campaign, ขอไอเดีย content ที่สร้างแรงบันดาลใจ"
+General,Light Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่, ขอไอเดีย marketing campaign ที่เน้นความสะดวก"
+General,Light Context,"ร้านอาหารต้องการ awareness campaign, ขอไอเดีย content ที่สร้างความจดจำ"
+General,Light Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าแฟชั่นผู้หญิง, ขอไอเดีย campaign ที่โดนใจกลุ่มเป้าหมาย"
+General,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทคอนโดใหม่, ขอไอเดีย marketing campaign ที่เน้นความทันสมัย"
+General,Light Context,"ร้านอาหารต้องการโปรโมทโปรโมชัน discount code, ขอไอเดีย campaign ที่เร่งการตัดสินใจ"
+General,Light Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนภาษาอังกฤษ, ขอไอเดีย awareness campaign ที่กระตุ้นให้สมัคร"
+General,Light Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่, ขอไอเดีย content ที่เน้นสุขภาพ"
+General,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยว, ขอไอเดีย marketing campaign ที่เน้นความเป็นส่วนตัว"
+General,Light Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่, ขอไอเดีย awareness campaign ที่กระตุ้นความอยากอาหาร"
+General,Light Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่, ขอไอเดีย engagement campaign ที่เร่งการตัดสินใจ"
+General,Light Context,"บริษัทเทคโนโลยีต้องการ awareness campaign, ขอไอเดีย content ที่สื่อถึงนวัตกรรม"
+General,Light Context,"ร้านอาหารต้องการโปรโมทโปรโมชัน buy 1 get 1, ขอไอเดีย campaign ที่ดึงดูดลูกค้า"
+General,Full Context,"ธุรกิจแฟชั่นกำลังจะเปิดตัว collection ใหม่สำหรับกลุ่มวัยรุ่น โดยเน้นความสนุกสนานและเทรนด์แฟชั่นล่าสุด
+ต้องการไอเดีย marketing campaign ที่เหมาะกับ awareness campaign และ engagement campaign
+ขอไอเดียที่สามารถนำไปใช้ได้จริง"
+General,Full Context,"ร้านอาหารญี่ปุ่นเปิดใหม่ในย่าน office ต้องการโปรโมทเมนู lunch set ด้วยโทนสนุกสนาน
+ต้องการไอเดีย content marketing สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เหมาะกับกลุ่มเป้าหมาย"
+General,Full Context,"บริษัทอสังหาฯ เปิดตัวโครงการคอนโดใหม่ในเมือง เน้นความทันสมัยและทำเลใกล้รถไฟฟ้า
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นความสนใจ"
+General,Full Context,"ธุรกิจสุขภาพเปิดตัวสินค้าใหม่สำหรับกลุ่มคนรักสุขภาพ ต้องการสร้างแรงบันดาลใจและ awareness
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เหมาะกับกลุ่มเป้าหมาย"
+General,Full Context,"บริษัทเทคโนโลยีเปิดตัว gadget ใหม่ที่เน้นนวัตกรรมและดีไซน์ทันสมัย
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เหมาะกับกลุ่มเป้าหมาย"
+General,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่ด้วยโปรโมชัน buy 1 get 1 โดยเน้นโทนสนุกสนาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เหมาะกับกลุ่มเป้าหมาย"
+General,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนภาษาอังกฤษออนไลน์สำหรับวัยทำงาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้สมัครเรียน"
+General,Full Context,"แบรนด์เครื่องดื่มสุขภาพเปิดตัวสินค้าใหม่สำหรับกลุ่มคนรักสุขภาพ
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เหมาะกับกลุ่มเป้าหมาย"
+General,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยวในโครงการใหม่ โดยเน้นความเป็นส่วนตัวและบรรยากาศอบอุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่สร้างความรู้สึกอบอุ่นใจ"
+General,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มวัยรุ่น โดยใช้โทนสนุกสนาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้ลูกค้าอยากลอง"
+General,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมท flash sale สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้รีบตัดสินใจ"
+General,Full Context,"บริษัทเทคโนโลยีเปิดตัวแอปใหม่สำหรับการจัดการการเงินส่วนบุคคล
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่สื่อถึงความสะดวกและทันสมัย"
+General,Full Context,"ร้านอาหารญี่ปุ่นต้องการโปรโมทเมนูพิเศษสำหรับช่วงเทศกาล
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่สร้างบรรยากาศพิเศษ"
+General,Full Context,"ธุรกิจสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เน้นสุขภาพและแรงบันดาลใจ"
+General,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านมือสองในโครงการใหม่
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่สร้างความมั่นใจให้กับลูกค้า"
+General,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้ลูกค้าอยากลอง"
+General,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่โดนใจกลุ่มเป้าหมาย"
+General,Full Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่สื่อถึงความสะดวก"
+General,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้ลูกค้าอยากลอง"
+General,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้สมัครเรียน"
+General,Full Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เน้นสุขภาพและความสดชื่น"
+General,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยวในโครงการใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่สร้างความรู้สึกอบอุ่นใจ"
+General,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้ลูกค้าอยากลอง"
+General,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่โดนใจกลุ่มเป้าหมาย"
+General,Full Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่สื่อถึงความสะดวก"
+General,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้ลูกค้าอยากลอง"
+General,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่กระตุ้นให้สมัครเรียน"
+General,Full Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการไอเดีย marketing campaign สำหรับ awareness campaign และ engagement campaign
+ขอไอเดียที่เน้นสุขภาพและความสดชื่น"
+Marketing Planning,Without Context,ช่วยสร้าง content calendar สำหรับธุรกิจแฟชั่น 1 เดือน
+Marketing Planning,Without Context,วางแผน campaign โปรโมทร้านอาหาร 3 เดือน
+Marketing Planning,Without Context,ช่วยวางแผน awareness campaign สำหรับธุรกิจสุขภาพ
+Marketing Planning,Without Context,สร้าง roadmap โปรโมทคอร์สเรียนออนไลน์
+Marketing Planning,Without Context,ช่วยวางแผน content marketing สำหรับธุรกิจอสังหาฯ
+Marketing Planning,Without Context,ช่วยจัดทำ engagement campaign plan สำหรับแบรนด์เครื่องดื่ม
+Marketing Planning,Without Context,วางแผน campaign โปรโมทแอปพลิเคชันใหม่
+Marketing Planning,Without Context,ช่วยวางแผน content สำหรับ awareness campaign ของร้านอาหาร
+Marketing Planning,Without Context,ช่วยวางแผน campaign โปรโมทสินค้าเทคโนโลยี
+Marketing Planning,Without Context,ช่วยวางแผน marketing สำหรับธุรกิจการเงิน
+Marketing Planning,Without Context,ช่วยวางแผน campaign โปรโมทบ้านเดี่ยว
+Marketing Planning,Without Context,ช่วยวางแผน awareness campaign สำหรับแบรนด์แฟชั่น
+Marketing Planning,Without Context,ช่วยวางแผนโปรโมทบริการการเงิน
+Marketing Planning,Without Context,ช่วยวางแผน content marketing สำหรับธุรกิจการศึกษา
+Marketing Planning,Without Context,ช่วยวางแผน engagement campaign สำหรับร้านอาหาร
+Marketing Planning,Without Context,ช่วยวางแผน campaign โปรโมทสินค้าใหม่
+Marketing Planning,Without Context,ช่วยวางแผน marketing สำหรับธุรกิจสุขภาพ
+Marketing Planning,Without Context,ช่วยวางแผน campaign โปรโมทคอนโดใหม่
+Marketing Planning,Without Context,ช่วยวางแผน awareness campaign สำหรับแอปพลิเคชันใหม่
+Marketing Planning,Without Context,ช่วยวางแผนโปรโมทร้านอาหารเปิดใหม่
+Marketing Planning,Without Context,ช่วยวางแผน marketing สำหรับธุรกิจอสังหาฯ
+Marketing Planning,Without Context,ช่วยวางแผน campaign โปรโมทสินค้าแฟชั่นผู้หญิง
+Marketing Planning,Without Context,ช่วยวางแผน engagement campaign สำหรับธุรกิจสุขภาพ
+Marketing Planning,Without Context,ช่วยวางแผน campaign โปรโมทบ้านมือสอง
+Marketing Planning,Without Context,ช่วยวางแผน awareness campaign สำหรับธุรกิจการศึกษา
+Marketing Planning,Without Context,ช่วยวางแผนโปรโมทบ้านเดี่ยวในโครงการใหม่
+Marketing Planning,Without Context,ช่วยวางแผน content marketing สำหรับธุรกิจแฟชั่น
+Marketing Planning,Without Context,ช่วยวางแผน engagement campaign สำหรับแบรนด์แฟชั่น
+Marketing Planning,Without Context,ช่วยวางแผน campaign โปรโมทสินค้าเทคโนโลยีใหม่
+Marketing Planning,Without Context,ช่วยวางแผน marketing สำหรับธุรกิจอาหาร
+Marketing Planning,Light Context,"ธุรกิจแฟชั่นกำลังจะเปิดตัว collection ใหม่, ช่วยวางแผน marketing campaign 3 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารเปิดใหม่อยากสร้าง awareness, ช่วยวางแผน campaign 1 เดือน"
+Marketing Planning,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทคอนโดใหม่, ช่วยวางแผน awareness campaign 2 เดือน"
+Marketing Planning,Light Context,"ธุรกิจสุขภาพมีสินค้าใหม่, ช่วยวางแผน marketing campaign 1 เดือน"
+Marketing Planning,Light Context,"บริษัทเทคโนโลยีต้องการเปิดตัว gadget ใหม่, ช่วยวางแผน awareness campaign"
+Marketing Planning,Light Context,"ร้านอาหารญี่ปุ่นต้องการโปรโมทเมนูใหม่, ช่วยวางแผน content marketing 1 เดือน"
+Marketing Planning,Light Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์, ช่วยวางแผน campaign 2 เดือน"
+Marketing Planning,Light Context,"แบรนด์เครื่องดื่มสุขภาพต้องการ awareness campaign, ช่วยวางแผน content 1 เดือน"
+Marketing Planning,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยว, ช่วยวางแผน marketing campaign 2 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่, ช่วยวางแผน awareness campaign 1 เดือน"
+Marketing Planning,Light Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่, ช่วยวางแผน engagement campaign 1 เดือน"
+Marketing Planning,Light Context,"บริษัทเทคโนโลยีต้องการ awareness campaign, ช่วยวางแผน content 1 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารต้องการโปรโมทโปรโมชัน buy 1 get 1, ช่วยวางแผน campaign 1 เดือน"
+Marketing Planning,Light Context,"ธุรกิจการศึกษาต้องการ awareness campaign, ช่วยวางแผน content 2 เดือน"
+Marketing Planning,Light Context,"แบรนด์แฟชั่นต้องการโปรโมทสินค้าใหม่, ช่วยวางแผน campaign 1 เดือน"
+Marketing Planning,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านมือสอง, ช่วยวางแผน marketing campaign 1 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารญี่ปุ่นต้องการโปรโมทเมนูพิเศษ, ช่วยวางแผน campaign 1 เดือน"
+Marketing Planning,Light Context,"ธุรกิจสุขภาพต้องการ awareness campaign, ช่วยวางแผน content 1 เดือน"
+Marketing Planning,Light Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่, ช่วยวางแผน marketing campaign 2 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารต้องการ awareness campaign, ช่วยวางแผน content 1 เดือน"
+Marketing Planning,Light Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าแฟชั่นผู้หญิง, ช่วยวางแผน campaign 1 เดือน"
+Marketing Planning,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทคอนโดใหม่, ช่วยวางแผน marketing campaign 2 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารต้องการโปรโมทโปรโมชัน discount code, ช่วยวางแผน campaign 1 เดือน"
+Marketing Planning,Light Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนภาษาอังกฤษ, ช่วยวางแผน awareness campaign 1 เดือน"
+Marketing Planning,Light Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่, ช่วยวางแผน content 1 เดือน"
+Marketing Planning,Light Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยว, ช่วยวางแผน marketing campaign 2 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่, ช่วยวางแผน awareness campaign 1 เดือน"
+Marketing Planning,Light Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่, ช่วยวางแผน engagement campaign 1 เดือน"
+Marketing Planning,Light Context,"บริษัทเทคโนโลยีต้องการ awareness campaign, ช่วยวางแผน content 1 เดือน"
+Marketing Planning,Light Context,"ร้านอาหารต้องการโปรโมทโปรโมชัน buy 1 get 1, ช่วยวางแผน campaign 1 เดือน"
+Marketing Planning,Full Context,"ธุรกิจแฟชั่นกำลังจะเปิดตัว collection ใหม่สำหรับกลุ่มวัยรุ่น โดยเน้นความสนุกสนานและเทรนด์แฟชั่นล่าสุด
+ต้องการแผน marketing campaign 3 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารญี่ปุ่นเปิดใหม่ในย่าน office ต้องการโปรโมทเมนู lunch set ด้วยโทนสนุกสนาน
+ต้องการแผน content marketing 1 เดือนที่เน้น awareness campaign ในช่วงเปิดตัว และ engagement campaign ในสัปดาห์ถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทอสังหาฯ เปิดตัวโครงการคอนโดใหม่ในเมือง เน้นความทันสมัยและทำเลใกล้รถไฟฟ้า
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจสุขภาพเปิดตัวสินค้าใหม่สำหรับกลุ่มคนรักสุขภาพ ต้องการสร้างแรงบันดาลใจและ awareness
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทเทคโนโลยีเปิดตัว gadget ใหม่ที่เน้นนวัตกรรมและดีไซน์ทันสมัย
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่ด้วยโปรโมชัน buy 1 get 1 โดยเน้นโทนสนุกสนาน
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนภาษาอังกฤษออนไลน์สำหรับวัยทำงาน
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"แบรนด์เครื่องดื่มสุขภาพเปิดตัวสินค้าใหม่สำหรับกลุ่มคนรักสุขภาพ
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยวในโครงการใหม่ โดยเน้นความเป็นส่วนตัวและบรรยากาศอบอุ่น
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มวัยรุ่น โดยใช้โทนสนุกสนาน
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมท flash sale สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทเทคโนโลยีเปิดตัวแอปใหม่สำหรับการจัดการการเงินส่วนบุคคล
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารญี่ปุ่นต้องการโปรโมทเมนูพิเศษสำหรับช่วงเทศกาล
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านมือสองในโครงการใหม่
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทอสังหาฯ ต้องการโปรโมทบ้านเดี่ยวในโครงการใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจแฟชั่นต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"บริษัทเทคโนโลยีต้องการโปรโมทแอปใหม่สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ร้านอาหารต้องการโปรโมทเมนูใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"ธุรกิจการศึกษาต้องการโปรโมทคอร์สเรียนออนไลน์สำหรับกลุ่มเป้าหมายวัยทำงาน
+ต้องการแผน marketing campaign 2 เดือนที่เน้น awareness campaign ในเดือนแรก และ engagement campaign ในเดือนถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
+Marketing Planning,Full Context,"แบรนด์เครื่องดื่มสุขภาพต้องการโปรโมทสินค้าใหม่สำหรับกลุ่มเป้าหมายวัยรุ่น
+ต้องการแผน marketing campaign 1 เดือนที่เน้น awareness campaign ในช่วงแรก และ engagement campaign ในช่วงถัดไป
+ช่วยวางแผน content calendar และกิจกรรมที่เหมาะกับแต่ละช่วง"
