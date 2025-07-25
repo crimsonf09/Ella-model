@@ -23,15 +23,17 @@ ind2type = {}
 async def lifespan(app: FastAPI):
     global model, tokenizer, device, type2ind, ind2type
 
-    type = ['Paper Work',
-            'Summary',
-            'Paraphrase',
-            'Simulation Role Play as a Character',
-            'Reasoning',
-            'Trending',
-            'Caption Generation',
-            'General',
-            'Marketing Planning']
+    type = [
+        "research_insight",
+        "strategy_planning",
+        "goal_breakdown",
+        "creative_idea_generation",
+        "judgment_decision",
+        "judgment_hr_decision",
+        "idea_validation",
+        "paraphrase",
+        "candidate_screening"
+    ]
 
     ind = 0
     for i in type:
@@ -78,15 +80,15 @@ async def ping():
 async def label():
     try:
         return {
-        '1': 'Paper Work',
-        '2' : 'Summary',
-        '3' : 'Paraphrase',
-        '4' : 'Simulation Role Play as a Character',
-        '5' : 'Reasoning',
-        '6' : 'Trending',
-        '7' : 'Caption Generation',
-        '8' : 'General',
-        '9' : 'Marketing Planning'
+        '1': 'research_insight',
+        '2' : 'strategy_planning',
+        '3' : 'goal_breakdown',
+        '4' : 'creative_idea_generation',
+        '5' : 'judgment_decision',
+        '6' : 'judgment_hr_decision',
+        '7' : 'idea_validation',
+        '8' : 'paraphrase',
+        '9' : 'candidate_screening'
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

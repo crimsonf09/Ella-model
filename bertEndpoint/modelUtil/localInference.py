@@ -21,15 +21,17 @@ from typing import Optional
 type2ind = {}
 ind2type = {}
 
-type = ['Paper Work',
-'Summary',
-'Paraphrase',
-'Simulation Role Play as a Character',
-'Reasoning',
-'Trending',
-'Caption Generation',
-'General',
-'Marketing Planning']
+type = [
+    "research_insight",
+    "strategy_planning",
+    "goal_breakdown",
+    "creative_idea_generation",
+    "judgment_decision",
+    "judgment_hr_decision",
+    "idea_validation",
+    "paraphrase",
+    "candidate_screening"
+]
 
 ind = 0
 for i in type:
